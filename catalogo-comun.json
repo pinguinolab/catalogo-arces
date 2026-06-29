@@ -1,0 +1,4935 @@
+{
+  "meta": {
+    "titulo": "Catálogo común de cultivares — The Maple Society of Europe (Spanish branch)",
+    "descripcion": "Repositorio colaborativo de fichas de cultivares de arce. Cualquier miembro puede importar cultivares desde aquí y proponer nuevos. Identificación por nombre normalizado.",
+    "version": "1.0",
+    "fecha": "2026-06-29",
+    "formato": "cada arce: {nombre, clave, ficha:{...}}. 'clave' es el nombre normalizado (sin acentos, comillas, guiones ni espacios) para detectar duplicados."
+  },
+  "arces": [
+    {
+      "nombre": "A. C. Carnival",
+      "clave": "acercampestrecarnival",
+      "ficha": {
+        "cientifico": "Acer campestre 'Carnival'",
+        "origen": "Países Bajos (azar de semillero, 1989)",
+        "exposicion": "Sombra / semisombra",
+        "crecimiento": "Lento",
+        "altura": "2,5–3",
+        "anchura": "2,5–3",
+        "porte": "globoso",
+        "hoja": "Campestre variegada, 3–5 lóbulos",
+        "tags": [
+          "A. Campestre",
+          "Variegado",
+          "Resistente"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "borde",
+            "desc": "Borde rosa · interior crema",
+            "colorBorde": "#e8a0b0",
+            "colorInterior": "#e0e0c8"
+          },
+          "verano": {
+            "tipo": "borde",
+            "desc": "Borde crema · interior verde",
+            "colorBorde": "#d0d0b8",
+            "colorInterior": "#5a7820"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Amarillo dorado",
+            "color": "#c8a020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas con corcho",
+            "color": "#6a4a30"
+          }
+        },
+        "descripcion": "Cultivar variegado del arce campestre europeo. Las hojas emergen con borde rosa brillante que madura a crema con centro verde. Funciona muy bien incluso en sombra total. Robusto y adaptable a casi cualquier suelo."
+      }
+    },
+    {
+      "nombre": "A. Campestre",
+      "clave": "acercampestre",
+      "ficha": {
+        "cientifico": "Acer campestre",
+        "origen": "Europa · Asia occidental",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "8–15",
+        "anchura": "8–12",
+        "porte": "erecto",
+        "hoja": "Campestre, 3–5 lóbulos redondeados",
+        "tags": [
+          "Arce europeo",
+          "Resistente",
+          "A. Campestre"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde medio",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Amarillo dorado",
+            "color": "#c8a020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas con corcho",
+            "color": "#6a4a30"
+          }
+        },
+        "descripcion": "El arce campestre europeo, muy diferente a los japoneses. Gran resistencia y adaptabilidad, tolera poda, suelos calcáreos y sequía. Hojas con lóbulos redondeados de aspecto clásico. El otoño trae un amarillo dorado limpio. Corteza corchosa en ejemplares maduros."
+      }
+    },
+    {
+      "nombre": "A. J. Aconitifolium",
+      "clave": "acerjaponicumaconitifolium",
+      "ficha": {
+        "cientifico": "Acer japonicum 'Aconitifolium'",
+        "nombre_alt": "Dancing Peacock",
+        "traduccion": "Hoja de acónito",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "5–6",
+        "anchura": "5–6",
+        "porte": "extendido",
+        "hoja": "Aconitifolium, 7–11 lóbulos profundos",
+        "tags": [
+          "A. Japonicum",
+          "Otoño espectacular"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#5a9030"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#3a6820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · dorado",
+            "colores": [
+              "#c0392b",
+              "#e07a20",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#8a7050"
+          }
+        },
+        "descripcion": "Uno de los arces japonicum más espectaculares en otoño. Las hojas muy profundamente divididas de 9–11 lóbulos crean un efecto de plumas — de ahí su apodo 'Dancing Peacock' (pavo real danzante). El color otoñal es excepcional: mezcla simultánea de rojo, naranja y dorado."
+      }
+    },
+    {
+      "nombre": "A. J. Indian Summer",
+      "clave": "acerjaponicumindiansummer",
+      "ficha": {
+        "cientifico": "Acer japonicum 'Indian Summer'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–5",
+        "anchura": "3,5–4,5",
+        "porte": "erecto",
+        "hoja": "Japonicum, 7–11 lóbulos",
+        "tags": [
+          "A. Japonicum",
+          "Otoño espectacular"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#3a7020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · dorado",
+            "colores": [
+              "#c0392b",
+              "#e07a20",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#8a7050"
+          }
+        },
+        "descripcion": "Japonicum seleccionado por su excepcional color otoñal. Las hojas grandes con muchos lóbulos ofrecen una paleta de rojo, naranja y dorado simultáneos en otoño que es difícil de igualar. Una de las mejores opciones para el color otoñal en jardines."
+      }
+    },
+    {
+      "nombre": "A. J. Vitifolium",
+      "clave": "acerjaponicumvitifolium",
+      "ficha": {
+        "cientifico": "Acer japonicum 'Vitifolium'",
+        "traduccion": "Hoja de vid",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "6–8",
+        "anchura": "5–6",
+        "porte": "erecto",
+        "hoja": "Vitifolium, 7–11 lóbulos anchos",
+        "tags": [
+          "A. Japonicum",
+          "Otoño espectacular",
+          "Hoja grande"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde-cobre",
+            "color": "#90b040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#3a7020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Escarlata · naranja · dorado",
+            "colores": [
+              "#c0392b",
+              "#e07a20",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#8a7050"
+          }
+        },
+        "descripcion": "El arce de hoja de vid, con lóbulos anchos y redondeados muy distintos del aconitifolium. Hojas grandes con cobre en la brotación. Otoño espectacular: escarlata, naranja y dorado simultáneos. Las semillas rojas contrastan con el verde del verano."
+      }
+    },
+    {
+      "nombre": "A. P. Aka shigitatsu sawa",
+      "clave": "acerpalmatumakashigitatsusawa",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Aka shigitatsu sawa'",
+        "nombre_alt": "Beni shigitatsu sawa",
+        "traduccion": "Chocha roja sobre el pantano invernal",
+        "origen": "Japón (cultivar muy antiguo, siglo XVII)",
+        "exposicion": "Sombra / semisombra",
+        "crecimiento": "Lento",
+        "altura": "3–4,5",
+        "anchura": "3–4,5",
+        "porte": "extendido",
+        "hoja": "Reticulada, 7 lóbulos",
+        "tags": [
+          "Antiquísimo cultivar",
+          "Hoja rosa",
+          "Grupo Reticulatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "reticulado",
+            "desc": "Rosa-crema · venas verdes prominentes",
+            "colorFondo": "#e8c8d0",
+            "colorVenas": "#4a6020"
+          },
+          "verano": {
+            "tipo": "reticulado",
+            "desc": "Verde · venas rosa-crema",
+            "colorFondo": "#3a6820",
+            "colorVenas": "#c8a0b0"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · dorado",
+            "colores": [
+              "#c04020",
+              "#e07820",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "También conocido como Beni shigitatsu sawa. Su nombre antiguo japonés significa 'chocha roja sobre el pantano invernal'. Uno de los más antiguos cultivares reticulados con historia documentada desde el siglo XVII. Las hojas rosa-crema surcadas de venas verdes en primavera son inconfundibles."
+      }
+    },
+    {
+      "nombre": "A. P. Akane",
+      "clave": "acerpalmatumakane",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Akane'",
+        "traduccion": "El cielo brillante del atardecer",
+        "origen": "Japón · Corea · China",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "3",
+        "anchura": "3",
+        "porte": "globoso",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Primavera llamativa",
+          "Grupo Corallinum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Naranja-dorado con toque rosa",
+            "color": "#dd911c"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde amarillento",
+            "color": "#c6b728"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Amarillo-naranja",
+            "color": "#d08020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre significa 'el cielo brillante del atardecer'. Las hojas emergen naranja-doradas con toque rosa en primavera, evolucionan a amarillo y verde claro en verano, para volver a los naranjas en otoño. Muy atractivo a contraluz. Porte compacto y redondeado."
+      }
+    },
+    {
+      "nombre": "A. P. Amagi sigure",
+      "clave": "acerpalmatumamagishigure",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Amagi shigure'",
+        "traduccion": "Lluvia del monte Amagi",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "2–3",
+        "anchura": "2–3",
+        "porte": "extendido",
+        "hoja": "Reticulada, 5–7 lóbulos",
+        "tags": [
+          "Reticulado",
+          "Grupo Reticulatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "reticulado",
+            "desc": "Crema · venas verdes",
+            "colorFondo": "#f2007d",
+            "colorVenas": "#780032"
+          },
+          "verano": {
+            "tipo": "reticulado",
+            "desc": "Verde · venas oscuras",
+            "colorFondo": "#b00742",
+            "colorVenas": "#6b0024"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · dorado",
+            "colores": [
+              "#d06820",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre evoca la lluvia suave sobre el monte Amagi. Cultivar reticulado con hojas de fondo claro surcadas por venas verdes bien marcadas en primavera. Porte extendido y crecimiento lento. Requiere protección del sol de tarde para conservar la reticulación.",
+        "color_rep": "#a62f57"
+      }
+    },
+    {
+      "nombre": "A. P. Amber ghost",
+      "clave": "acerpalmatumamberghost",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Amber Ghost'",
+        "origen": "Serie Ghost (EE.UU.)",
+        "exposicion": "Semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–4",
+        "anchura": "2,5–3",
+        "porte": "erecto",
+        "hoja": "Reticulada, 7 lóbulos",
+        "tags": [
+          "Reticulado",
+          "Serie Ghost",
+          "Ámbar",
+          "Grupo Reticulatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "reticulado",
+            "desc": "Ámbar-dorado · venas verdes",
+            "colorFondo": "#e8c860",
+            "colorVenas": "#4a6020"
+          },
+          "verano": {
+            "tipo": "reticulado",
+            "desc": "Dorado-verde · venas oscuras",
+            "colorFondo": "#b0a040",
+            "colorVenas": "#3a5020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja-dorado",
+            "colores": [
+              "#c04020",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar reticulado de la serie Ghost con tonalidades ámbar-doradas que lo distinguen de sus parientes. Las hojas emergen en un cálido ámbar-dorado con venas verdes contrastadas. Requiere semisombra para preservar la reticulación y evitar quemaduras."
+      }
+    },
+    {
+      "nombre": "A. P. Anne Irene",
+      "clave": "acerpalmatumanneirene",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Anne Irene'",
+        "origen": "Países Bajos",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–4",
+        "anchura": "2,5–3",
+        "porte": "erecto",
+        "hoja": "Palmeada variegada, 5–7 lóbulos",
+        "tags": [
+          "Variegado",
+          "Grupo Variegatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "manchas",
+            "desc": "Rosa · crema · amarillo",
+            "colores": [
+              "#d06880",
+              "#f0e8d0",
+              "#f5f857"
+            ]
+          },
+          "verano": {
+            "tipo": "manchas",
+            "desc": "Amarillo · verde",
+            "colores": [
+              "#4a8030",
+              "#d8d040"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#c0392b",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar variegado holandés con hojas que muestran manchas crema y toques rosados sobre fondo verde en primavera. La variegación se mantiene en semisombra durante el verano. Color otoñal en rojos y naranjas.",
+        "color_rep": "#e6f342"
+      }
+    },
+    {
+      "nombre": "A. P. Ao Meshime No Uchi",
+      "clave": "acerpalmatumaomeshimenouchi",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Ao Meshime No Uchi'",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "1,5–2",
+        "anchura": "1,5–2",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos profundos, hojas orientadas hacia abajo",
+        "tags": [
+          "Hoja orientada hacia abajo",
+          "Grupo Palmatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Dorado · rojo",
+            "colores": [
+              "#c8a020",
+              "#c04020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar con las hojas orientadas hacia abajo, característica distintiva que crea un efecto visual único en el jardín. Porte semi-erecto con hojas de lóbulos profundamente divididos y puntas largas. El color otoñal en dorados y rojos es generoso para su tamaño."
+      }
+    },
+    {
+      "nombre": "A. P. Ariadne",
+      "clave": "acerpalmatumariadne",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Ariadne'",
+        "origen": "Países Bajos",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "2,5–3",
+        "anchura": "2,5",
+        "porte": "erecto",
+        "hoja": "Reticulada, 5–7 lóbulos",
+        "tags": [
+          "Reticulado",
+          "Hoja rosa",
+          "Grupo Reticulatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "reticulado",
+            "desc": "Naranja-rosa · venas oscuras",
+            "colorFondo": "#e8a870",
+            "colorVenas": "#4a5020"
+          },
+          "verano": {
+            "tipo": "reticulado",
+            "desc": "Púrpura · venas oscuras",
+            "colorFondo": "#6b1a30",
+            "colorVenas": "#5a3020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Naranja-rojo ardiente",
+            "color": "#d06020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar reticulado con evolución de color única: hojas naranja-rosadas pastel en primavera que viran a púrpura oscuro en verano. El otoño trae naranjas ardientes. Madura a 8–10 m de altura y anchura con el paso de los años."
+      }
+    },
+    {
+      "nombre": "A. P. Atrolineare",
+      "clave": "acerpalmatumatrolineare",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Atrolineare'",
+        "nombre_alt": "Filifera purpurea · Scolopendrifolium rubrum",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3",
+        "anchura": "2,5",
+        "porte": "erecto",
+        "hoja": "Lineal muy estrecha en cinta roja",
+        "tags": [
+          "Único en palmatum",
+          "Hoja de cinta",
+          "Hoja roja",
+          "Grupo Linearilobum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Negro-rojo intenso",
+            "color": "#3a0818"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas-rojizas",
+            "color": "#6a3a20"
+          }
+        },
+        "descripcion": "El grupo lineal rojo por excelencia. Las hojas son cintas muy estrechas de color rojo que se vuelven casi negro-rojas con el calor del verano. Porte erecto con estructura ramificada en vaso. Árbol muy distintivo y elegante en el jardín por la finura de sus hojas."
+      }
+    },
+    {
+      "nombre": "A. P. Atropurpureum",
+      "clave": "acerpalmatumatropurpureum",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Atropurpureum'",
+        "origen": "Japón · Corea · China",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–8",
+        "anchura": "4–6",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Púrpura-rojo intenso",
+            "color": "#8b1717"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos muy oscuro",
+            "color": "#5a1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata brillante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Uno de los arces japoneses rojos más cultivados. Su follaje púrpura-rojo mantiene el color todo el verano antes de transformarse en escarlata intenso en otoño. Puede alcanzar porte de árbol mediano con el tiempo. Base de muchos cultivares modernos.",
+        "color_rep": "#600e14"
+      }
+    },
+    {
+      "nombre": "A. P. Beni Chidori",
+      "clave": "acerpalmatumbenichidori",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Beni Chidori'",
+        "traduccion": "Chorlito rojo",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–4",
+        "anchura": "2,5–3",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro",
+            "color": "#8b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre evoca al chorlito, ave zancuda de vuelo elegante. Cultivar de palmatum rojo con porte erecto y follaje palmeado de buena textura. El color rojo se mantiene bien durante la temporada con el escarlata otoñal como punto culminante."
+      }
+    },
+    {
+      "nombre": "A. P. Beni kawa",
+      "clave": "acerpalmatumbenikawa",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Beni kawa'",
+        "traduccion": "Corteza roja",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "5–6",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Corteza ornamental",
+          "Similar a Sangokaku",
+          "Grupo Red Wood"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde-amarillo",
+            "color": "#90c040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde medio",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Amarillo dorado",
+            "color": "#d8c030"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas rojo coral intenso",
+            "color": "#c84030"
+          }
+        },
+        "descripcion": "Similar al Sangokaku pero con ramas de un rojo coral aún más intenso en invierno. Su nombre significa 'corteza roja'. El follaje se vuelve amarillo dorado en otoño antes de revelar el espectáculo de sus ramas. Excelente árbol de cuatro estaciones."
+      }
+    },
+    {
+      "nombre": "A. P. Beni Maiko",
+      "clave": "acerpalmatumbenimaiko",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Beni Maiko'",
+        "traduccion": "Bailarina roja",
+        "origen": "Japón · Premio RHS AGM",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "2,5–3",
+        "anchura": "2–2,5",
+        "porte": "erecto",
+        "hoja": "Palmeada, 3–5 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "RHS AGM",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante-escarlata",
+            "color": "#e02020"
+          },
+          "verano": {
+            "tipo": "multi",
+            "desc": "Verde con venas rojas",
+            "colores": [
+              "#6a9030",
+              "#c02020"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#e07a20",
+              "#c0392b"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre significa 'bailarina roja'. Las hojas emergen escarlata brillante, viran a verde con venas rojas en verano y terminan en naranja-rojo en otoño. El segundo brote de verano también es rojo. Premio AGM de la RHS."
+      }
+    },
+    {
+      "nombre": "A. P. Beni Otake",
+      "clave": "acerpalmatumbeniotake",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Beni Otake'",
+        "traduccion": "Gran bambú rojo",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado-vigoroso",
+        "altura": "3,5–6",
+        "anchura": "2,5–4",
+        "porte": "erecto",
+        "hoja": "Palmeada con lóbulos largos, estilo bambú",
+        "tags": [
+          "Hoja roja",
+          "Hoja de cinta",
+          "Grupo Linearilobum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro mantenido",
+            "color": "#8b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo intenso",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre significa 'gran bambú rojo', perfecta descripción de sus hojas con lóbulos largos y estrechos que recuerdan hojas de bambú. El color rojo es brillante en primavera y se mantiene bien durante el verano. Árbol vigoroso que forma un hermoso ejemplar multi-tronco."
+      }
+    },
+    {
+      "nombre": "A. P. Beni Sazanami",
+      "clave": "acerpalmatumbenisazanami",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Beni Sazanami'",
+        "nombre_alt": "Red Ruffles",
+        "traduccion": "Olas rojas",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "3",
+        "anchura": "1,8–2,5",
+        "porte": "erecto",
+        "hoja": "Palmeada muy dentada, 7 lóbulos serrados",
+        "tags": [
+          "Hoja muy dentada",
+          "Hoja roja",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "reticulado",
+            "desc": "Rojo con venas verdes",
+            "colorFondo": "#c02020",
+            "colorVenas": "#3a6020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "También llamado 'Red Ruffles'. Los lóbulos fuertemente serrados de estas hojas pequeñas evocan el efecto de volantes de tela roja. El rojo brillante de la brotación se suaviza en verano mostrando venas verdes, para volver al rojo brillante en otoño. Excelente para bonsai y contenedores."
+      }
+    },
+    {
+      "nombre": "A. P. Beni Schichienge",
+      "clave": "acerpalmatumbenishichienge",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Beni Shichienge'",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "2–3",
+        "anchura": "2–3",
+        "porte": "erecto",
+        "hoja": "Variegada, 5–7 lóbulos",
+        "tags": [
+          "Variegado",
+          "Grupo Variegatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "manchas",
+            "desc": "Rosa-rojo · crema · verde",
+            "colores": [
+              "#c84060",
+              "#f0e8d0",
+              "#4a8030"
+            ]
+          },
+          "verano": {
+            "tipo": "manchas",
+            "desc": "Verde · crema",
+            "colores": [
+              "#4a8030",
+              "#e0e0c0"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#c04020",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar variegado con hojas que combinan rosa-rojo, crema y verde en primavera. La variegación es más llamativa en la nueva brotación. Proteger del sol intenso de tarde para preservar los colores. El otoño trae rojos y naranjas. Muerto a finales de primavera de 2026."
+      }
+    },
+    {
+      "nombre": "A. P. Bi-hoo",
+      "clave": "acerpalmatumbihoo",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Bi hoo'",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–4",
+        "anchura": "2,5–3",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Corteza ornamental",
+          "Grupo Red Wood"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde-amarillo",
+            "color": "#c8d040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde-dorado",
+            "color": "#90a830"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#d08020",
+              "#c04020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas amarillo-doradas",
+            "color": "#c8b030"
+          }
+        },
+        "descripcion": "Similar al Sangokaku pero con corteza amarillo-dorada en lugar de coral. Sus ramas jóvenes amarillas son el principal atractivo en invierno. Follaje verde-amarillento en verano con buen color otoñal en naranjas y rojos."
+      }
+    },
+    {
+      "nombre": "A. P. Bloodgood",
+      "clave": "acerpalmatumbloodgood",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Bloodgood'",
+        "origen": "Bloodgood Nursery, Nueva York (EE.UU.)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–5",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Referencia clásica",
+          "Hoja roja",
+          "Resistente al calor",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo-púrpura oscuro",
+            "color": "#8b1a3a"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos muy oscuro",
+            "color": "#6b0a28"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata vibrante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "El arce japonés rojo más cultivado en el mundo occidental. Las hojas rojo-púrpura mantienen el color incluso en verano caluroso. Base para numerosos cultivares modernos como 'Skeeter's Broom' y 'Twombly's Red Sentinel'. El escarlata otoñal es muy llamativo. Podado drástico tras enfermedad en 2024."
+      }
+    },
+    {
+      "nombre": "A. P. Butterfly",
+      "clave": "acerpalmatumbutterfly",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Butterfly'",
+        "origen": "Japón · RHS AGM",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "2–3",
+        "anchura": "1,5–2",
+        "porte": "erecto",
+        "hoja": "Variegada, 5–7 lóbulos estrechos",
+        "tags": [
+          "Variegado",
+          "RHS AGM",
+          "Hoja rosa",
+          "Grupo Marginatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "borde",
+            "desc": "Borde rosa · interior verde-crema",
+            "colorBorde": "#e8a0b0",
+            "colorInterior": "#f8ffeb"
+          },
+          "verano": {
+            "tipo": "borde",
+            "desc": "Borde crema · interior verde grisáceo",
+            "colorBorde": "#ffffff",
+            "colorInterior": "#4a8030"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Escarlata · rosa intenso",
+            "colores": [
+              "#c0392b",
+              "#e890b0"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Las hojas con lóbulos estrechos presentan bordes irregulares en crema-blanco a menudo teñidos de rosa que evocan alas de mariposa. En otoño el contraste se intensifica con escarlata en las zonas verdes y rosa profundo en los bordes. Premio AGM de la RHS."
+      }
+    },
+    {
+      "nombre": "A. P. Carlis Corner",
+      "clave": "acerpalmatumcarliscorner",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Carlis Corner'",
+        "nombre_alt": "Carli's Corner",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento-moderado",
+        "altura": "1",
+        "anchura": "1",
+        "porte": "enano",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "Grupo Witches Broom"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro",
+            "color": "#7a1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar de palmatum rojo de buenas características. Las hojas mantienen el color rojo durante toda la temporada con buena intensidad. Porte erecto y equilibrado. El otoño trae un escarlata llamativo antes de la caída de la hoja."
+      }
+    },
+    {
+      "nombre": "A. P. Cascade Citrine",
+      "clave": "acerpalmatumcascadecitrine",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Cascade Citrine'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,5–2",
+        "anchura": "2–2,5",
+        "porte": "cascada",
+        "hoja": "Disectada, 7–9 lóbulos",
+        "tags": [
+          "Citrino",
+          "Dissectum",
+          "Dissectum amarillo",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Amarillo-chartreuse",
+            "color": "#d8d040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Dorado-verde citrino",
+            "color": "#a0b020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#d08020",
+              "#c0392b"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas lloronas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Disectado con inusual follaje en tono citrino amarillo-verdoso que lo diferencia de la mayoría verde oscuro del grupo. Las hojas en encaje tienen color chartreuse-dorado que se mantiene durante el verano. El otoño aporta naranjas y rojos sobre las ramas lloronas."
+      }
+    },
+    {
+      "nombre": "A. P. Cascade Ruby",
+      "clave": "acerpalmatumcascaderuby",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Cascade Ruby'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Rápido",
+        "altura": "1,5–2,5",
+        "anchura": "2–3",
+        "porte": "cascada",
+        "hoja": "Disectada, 7–9 lóbulos",
+        "tags": [],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rubí-rojo",
+            "color": "#b54545"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro intenso",
+            "color": "#87b348"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata",
+            "color": "#fc922d"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas lloronas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Crecimiento erguido pero ramas colgantes; hojas de verano de color verde medio. De crecimiento rápido, alcanza aproximadamente 1,5 m de altura. El color de las hojas es amarillo anaranjado en otoño."
+      }
+    },
+    {
+      "nombre": "A. P. Celebration",
+      "clave": "acerpalmatumcelebration",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Celebration'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–4",
+        "anchura": "2,5–3",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro",
+            "color": "#6b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar de palmatum rojo con buen mantenimiento del color durante el verano. Porte erecto con follaje palmeado de buen tamaño. El otoño trae un escarlata llamativo antes de la caída de la hoja."
+      }
+    },
+    {
+      "nombre": "A. P. Corallinum",
+      "clave": "acerpalmatumcorallinum",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Corallinum'",
+        "origen": "Japón — grupo corallinum",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "2,5–3",
+        "anchura": "2–2,5",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5 lóbulos",
+        "tags": [
+          "Brotación coral",
+          "Varias estaciones",
+          "Grupo Corallinum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Coral-rosado brillante",
+            "color": "#e07868"
+          },
+          "verano": {
+            "tipo": "multi",
+            "desc": "Verde · nueva brotación coral",
+            "colores": [
+              "#5a8030",
+              "#e07868"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · dorado",
+            "colores": [
+              "#c04020",
+              "#d08020",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Del grupo corallinum que brota pronto y espectacularmente en primavera. Las hojas coral-rosadas son únicas en los palmatum. Durante el verano el nuevo crecimiento vuelve a ser coral sobre el verde, creando un efecto bicolor muy buscado por los coleccionistas."
+      }
+    },
+    {
+      "nombre": "A. P. Deshojo",
+      "clave": "acerpalmatumdeshojo",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Deshojo'",
+        "traduccion": "Cielo rojo del amanecer",
+        "origen": "Japón · RHS AGM",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "2,5–3",
+        "anchura": "2–2,5",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "RHS AGM",
+          "Grupo Corallinum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "multi",
+            "desc": "Verde amarillento con vino",
+            "colores": [
+              "#78b61e",
+              "#a71326"
+            ]
+          },
+          "verano": {
+            "tipo": "borde",
+            "desc": "Verde y burdeos",
+            "colorBorde": "#6b1020",
+            "colorInterior": "#1c3a0e"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#c0392b",
+              "#e07a20"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Considerado uno de los mejores arces japoneses por su color primaveral. Las hojas emergen en un escarlata brillante que vira al verde moteado de blanco en verano. Cultivar de lento crecimiento muy apreciado por coleccionistas y en bonsai.",
+        "color_rep": "#1c3a0e"
+      }
+    },
+    {
+      "nombre": "A. P. Dissectum",
+      "clave": "acerpalmatumdissectum",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Dissectum'",
+        "origen": "Japón (cultivar muy antiguo)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,5–2,5",
+        "anchura": "2–3,5",
+        "porte": "cascada",
+        "hoja": "Disectada fina verde, 7–9 lóbulos",
+        "tags": [
+          "Dissectum",
+          "Dissectum verde",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde intenso",
+            "color": "#3a7020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · amarillo",
+            "colores": [
+              "#c0392b",
+              "#d08020",
+              "#c8c020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Estructura lloronas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "El disectado verde clásico que define el tipo. Follaje en encaje profundamente dividido en cúpula lloronas amplia. Muy utilizado en jardines japoneses desde hace siglos. El otoño aporta una mezcla espectacular de rojo, naranja y amarillo."
+      }
+    },
+    {
+      "nombre": "A. P. Emerald lace",
+      "clave": "acerpalmatumemeraldlace",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Emerald Lace'",
+        "origen": "Nueva Zelanda · RHS AGM",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado-rápido",
+        "altura": "4–5",
+        "anchura": "4–5",
+        "porte": "extendido",
+        "hoja": "Disectada muy fina, 7–9 lóbulos",
+        "tags": [
+          "Grande",
+          "RHS AGM",
+          "Dissectum",
+          "Dissectum verde",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde lima",
+            "color": "#90c840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde esmeralda oscuro",
+            "color": "#3a7820"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo completo",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Premio RHS a la excelencia. Follaje de encaje profusamente dividido de gran belleza. Las hojas emergen verde lima en primavera y alcanzan un verde esmeralda oscuro en verano. El otoño trae un rojo completo y vibrante. Porte extendido y ondulante en plano horizontal."
+      }
+    },
+    {
+      "nombre": "A. P. Emperor I",
+      "clave": "acerpalmatumemperori",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Emperor I'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–5",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "Resistente al calor",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro",
+            "color": "#8b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata vibrante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Similar al 'Bloodgood' pero con brotación primaveral más tardía que lo protege de las heladas tardías. Mayor resistencia al calor, manteniendo el rojo oscuro incluso en veranos calurosos. Árbol fiable y muy utilizado en EE.UU. como alternativa al 'Bloodgood'."
+      }
+    },
+    {
+      "nombre": "A. P. Firecracker",
+      "clave": "acerpalmatumfirecracker",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Firecracker'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,5–2",
+        "anchura": "1,5–2",
+        "porte": "cascada",
+        "hoja": "Disectada, 7–9 lóbulos",
+        "tags": [
+          "Dissectum",
+          "Dissectum rojo",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo intenso",
+            "color": "#c82020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro",
+            "color": "#8b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata brillante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas lloronas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Disectado rojo compacto con buen mantenimiento del color durante el verano. El follaje en encaje rojo intenso crea una cúpula densa y ornamental. El otoño trae un escarlata brillante. Porte algo más compacto que otros disectados de su grupo."
+      }
+    },
+    {
+      "nombre": "A. P. Fireglow",
+      "clave": "acerpalmatumfireglow",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Fireglow'",
+        "origen": "Países Bajos",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–5",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "Resistente al calor",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo intenso",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro que aguanta calor",
+            "color": "#8b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo-naranja brillante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Similar al 'Bloodgood' pero con mayor resistencia al calor y hojas menos profundamente divididas. El rojo se mantiene bien incluso en pleno sol. Árbol fiable y muy utilizado en paisajismo por su constancia en el color."
+      }
+    },
+    {
+      "nombre": "A. P. Freemanii",
+      "clave": "acerfreemanii",
+      "ficha": {
+        "cientifico": "Acer × freemanii",
+        "origen": "Híbrido A. rubrum × A. saccharinum (América del Norte)",
+        "exposicion": "Sol",
+        "crecimiento": "Rápido",
+        "altura": "12–15",
+        "anchura": "6–9",
+        "porte": "erecto",
+        "hoja": "Fremanii, 3–5 lóbulos con dientes profundos",
+        "tags": [
+          "A. Freemanii",
+          "Grande"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo-naranja espectacular",
+            "colores": [
+              "#c0392b",
+              "#d06820"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#6a4a30"
+          }
+        },
+        "descripcion": "Híbrido de los arces rubrum y saccharinum norteamericanos. Grande y de rápido crecimiento con la típica hoja de arce canadiense. El color otoñal en rojo-naranja es muy llamativo. Muy usado como árbol de alineación y ejemplar solitario en jardines amplios."
+      }
+    },
+    {
+      "nombre": "A. P. Fujiyama Nishiki",
+      "clave": "acerpalmatumfujiyamanishiki",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Fujiyama Nishiki'",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–5",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Variegada, 5–7 lóbulos",
+        "tags": [
+          "Variegado",
+          "Grupo Variegatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "multi",
+            "desc": "Rosa · crema · verde",
+            "colores": [
+              "#de0055",
+              "#750000"
+            ]
+          },
+          "verano": {
+            "tipo": "multi",
+            "desc": "Verde · crema",
+            "colores": [
+              "#780000",
+              "#0a2111"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#d92176",
+              "#151c15"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar variegado japonés con hojas que muestran manchas rojas y verde oscuro casi negro. Las hojas jóvenes en primavera son las más coloridas. Revierte con facilidad. Nuestro ejemplar es sólo rojo, por revertido o por mala situación, habrá que esperar un poco a que crezca."
+      }
+    },
+    {
+      "nombre": "A. P. Garnett",
+      "clave": "acerpalmatumgarnet",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Garnet'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "2–3",
+        "anchura": "3–4",
+        "porte": "cascada",
+        "hoja": "Disectada fina, 7–9 lóbulos",
+        "tags": [
+          "Gran difusión",
+          "Dissectum",
+          "Dissectum rojo",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Granate brillante",
+            "color": "#8b1a30"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos oscuro",
+            "color": "#6b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo-naranja ardiente",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas lloronas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Uno de los disectados rojos más populares en jardines. Porte en cúpula con ramas lloronas y follaje profusamente dividido de color granate. Mantiene bien el color en verano. Muy robusto y adaptable. El otoño aporta un intenso rojo-naranja."
+      }
+    },
+    {
+      "nombre": "A. P. Geisha Gone Wild",
+      "clave": "acerpalmatumgeishagonewild",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Geisha Gone Wild'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,8–3",
+        "anchura": "0,9–2,5",
+        "porte": "enano",
+        "hoja": "Palmeada variegada, 5–7 lóbulos",
+        "tags": [
+          "Enano",
+          "Variegado",
+          "Grupo Variegatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "manchas",
+            "desc": "Púrpura-rosa · blanco · verde",
+            "colores": [
+              "#90c840",
+              "#f0f0e8",
+              "#a04060"
+            ]
+          },
+          "verano": {
+            "tipo": "manchas",
+            "desc": "Verde · crema · rosa",
+            "colores": [
+              "#4a8030",
+              "#e0e0d0",
+              "#a04060"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Púrpura · naranja",
+            "colores": [
+              "#8b1a3a",
+              "#d06020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Enano variegado extraordinariamente llamativo. Las hojas combinan púrpura-rosa, blanco y verde en una mezcla explosiva. Uno de los variegados más coloridos disponibles. Crece 6' × 3' en 10 años. Ideal para contenedores y jardines pequeños."
+      }
+    },
+    {
+      "nombre": "A. P. Going green",
+      "clave": "acerpalmatumgoinggreen",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Going Green'",
+        "origen": "Países Bajos (Van Son & Koot, 2013)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "2–5",
+        "anchura": "1,5–3",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Varias estaciones",
+          "Hoja verde",
+          "Grupo Palmatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde lima brillante",
+            "color": "#90c840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde intenso",
+            "color": "#4a8020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Dorado · naranja",
+            "colores": [
+              "#d08020",
+              "#e07a20"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Tallos verde brillante",
+            "color": "#5a9830"
+          }
+        },
+        "descripcion": "Cultivar holandés seleccionado por su intenso color verde que se mantiene brillante todo el verano. Su característica más singular son los tallos verde brillante similares al bambú que quedan al descubierto en invierno tras la caída de la hoja. Otoño en dorados y naranjas."
+      }
+    },
+    {
+      "nombre": "A. P. Green Globe",
+      "clave": "acerpalmatumgreenglobe",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Green Globe'",
+        "origen": "Países Bajos",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "2–3",
+        "anchura": "2–3",
+        "porte": "globoso",
+        "hoja": "Palmeada compacta, 5–7 lóbulos",
+        "tags": [
+          "Hoja verde",
+          "Grupo Palmatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro denso",
+            "color": "#3a7020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#c0392b",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar de porte globoso natural y muy compacto con follaje verde denso. La copa esférica se forma sola sin necesidad de poda. Perfecto para jardines formales o como contrapunto a arces de follaje rojo. Generoso color otoñal en rojos y naranjas."
+      }
+    },
+    {
+      "nombre": "A. P. Hime soho",
+      "clave": "acerpalmatumhimesoho",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Hime soho'",
+        "traduccion": "Pequeña princesa",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,5–2",
+        "anchura": "1,5–2",
+        "porte": "enano",
+        "hoja": "Palmeada pequeña, 5–7 lóbulos",
+        "tags": [
+          "Enano",
+          "Grupo Palmatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#870707"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#8a0c0c"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#c04020",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre significa 'pequeña princesa'. Cultivar enano con hojas pequeñas y porte compacto natural. Crecimiento muy lento ideal para macetas y espacios reducidos. El color otoñal en rojos y naranjas es desproporcionadamente vistoso para el tamaño del árbol."
+      }
+    },
+    {
+      "nombre": "A. P. Hino Tori Nishiki",
+      "clave": "acerpalmatumhinotorinishiki",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Hino Tori Nishiki'",
+        "traduccion": "Pájaro de fuego",
+        "origen": "Países Bajos (Dick van der Maat, 1997)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado-vigoroso",
+        "altura": "3",
+        "anchura": "2,5",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Brotación coral",
+          "Varias estaciones",
+          "Grupo Corallinum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Coral-rosado apricot",
+            "color": "#e08070"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde lima",
+            "color": "#5a8830"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#c04020",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre significa 'pájaro de fuego'. Las hojas emergen en un coral-apricot muy llamativo en primavera que cambia a verde lima en verano. El segundo brote de crecimiento también aparece coral. Otoño en naranjas y rojos intensos. Introducido por Dick van der Maat."
+      }
+    },
+    {
+      "nombre": "A. P. Ikandi",
+      "clave": "acerpalmatumikandi",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Ikandi'",
+        "origen": "Mutación de 'Alpenweiss' (Países Bajos)",
+        "exposicion": "Sol parcial / semisombra",
+        "crecimiento": "Lento",
+        "altura": "2–4",
+        "anchura": "1,5–2,5",
+        "porte": "erecto",
+        "hoja": "Variegada reticulada, 5–7 lóbulos",
+        "tags": [
+          "Variegado",
+          "Reticulado",
+          "Grupo Reticulatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "reticulado",
+            "desc": "Rosa-crema · venas verdes",
+            "colorFondo": "#f0c0c8",
+            "colorVenas": "#4a7820"
+          },
+          "verano": {
+            "tipo": "reticulado",
+            "desc": "Verde-blanco · venas verdes",
+            "colorFondo": "#d0e0b0",
+            "colorVenas": "#3a6020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo fuerte",
+            "colores": [
+              "#d08020",
+              "#c04020",
+              "#c0392b"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Azar de semillero del 'Alpenweiss'. Las hojas emergen arrugadas, rosa y crema en primavera con venas verdes muy marcadas. La variegación en el borde crea un efecto de rayas. La variegación aumenta con la madurez del árbol."
+      }
+    },
+    {
+      "nombre": "A. P. Inaba shidare",
+      "clave": "acerpalmatuminabashidare",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Inaba shidare'",
+        "traduccion": "Sauce de Inaba",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,5–2",
+        "anchura": "2,4–4,5",
+        "porte": "cascada",
+        "hoja": "Disectada, 5–7 lóbulos",
+        "tags": [
+          "Resistente",
+          "Dissectum",
+          "Dissectum rojo",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo vivo",
+            "color": "#8b1a30"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos",
+            "color": "#6b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas lloronas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Disectado rojo llorón de gran robustez — tolera el sol pleno mejor que muchos de su grupo. El rojo vivo de primavera evoluciona a burdeos y retorna al rojo brillante en otoño. Desarrolla con la edad una copa en seta muy característica."
+      }
+    },
+    {
+      "nombre": "A. P. Isobel",
+      "clave": "acerpalmatumisobel",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Isobel'",
+        "origen": "Nueva Zelanda (Isobel Senior)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "2,5–3,5",
+        "anchura": "2,5–3,5",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo muy brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro",
+            "color": "#8b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar neozelandés seleccionado por Isobel Senior. Hojas de un rojo muy vivo con buen mantenimiento del color durante el verano. Porte equilibrado y natural. El escarlata otoñal es llamativo y uniforme."
+      }
+    },
+    {
+      "nombre": "A. P. Jerre Schwartz",
+      "clave": "acerpalmatumjerreschwartz",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Jerre Schwartz'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "1,2–1,5",
+        "anchura": "0,9–1,2",
+        "porte": "erecto",
+        "hoja": "Disectada, lóbulos estrechos",
+        "tags": [
+          "Hoja roja",
+          "Raro",
+          "Grupo Matsumurae"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo con matices verdes",
+            "color": "#c84040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro",
+            "color": "#8b2030"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar compacto con hojas profundamente divididas de aspecto delicado. Las hojas emergen rojas con matices verdes en primavera y mantienen el color durante el verano. Introducción relativamente reciente en el mercado se ha convertido pronto en bastante fácil de encontrar."
+      }
+    },
+    {
+      "nombre": "A. P. Katsura",
+      "clave": "acerpalmatumkatsura",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Katsura'",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3,5–4,5",
+        "anchura": "2–2,5",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Varias estaciones",
+          "Hoja naranja",
+          "Grupo Aureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "borde",
+            "desc": "Naranja brillante con borde rosa",
+            "colorBorde": "#e08040",
+            "colorInterior": "#d8d040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde claro agradable",
+            "color": "#5a8830"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#d08020",
+              "#c04020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Uno de los arces más populares por su espectacular color primaveral: las hojas emergen en un llamativo naranja brillante con borde rosado que cambia a verde claro y fresco en verano. El otoño repite el espectáculo con naranjas y rojos. Muy recomendado para jardines pequeños."
+      }
+    },
+    {
+      "nombre": "A. P. Katsura Nishiki",
+      "clave": "acerpalmatumkatsuranishiki",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Katsura Nishiki'",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–5",
+        "anchura": "2,5–4",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja naranja",
+          "Grupo Aureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Naranja-dorado con borde rosa",
+            "color": "#ffce5c"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Amarillo claro",
+            "color": "#fff987"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#d08020",
+              "#c04020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar con un llamativo color primaveral naranja-dorado con borde rosado, muy similar al 'Katsura'. Las hojas evolucionan a verde claro en verano y a naranjas y rojos en otoño. Porte erecto y tamaño moderado para diferentes tipos de jardines."
+      }
+    },
+    {
+      "nombre": "A. P. Ki Hachijo",
+      "clave": "acerpalmatumkihachijo",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Ki Hachijo'",
+        "origen": "Isla de Hachijo (Japón)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–6",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Palmeada con puntas, 5–7 lóbulos",
+        "tags": [
+          "Insular japonés",
+          "Corteza ornamental",
+          "Grupo Red Wood"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Amarillo · rojo-naranja",
+            "colores": [
+              "#c8c020",
+              "#c04020"
+            ]
+          },
+          "invierno": {
+            "tipo": "snake_bark",
+            "desc": "Corteza con estrías blancas con la edad",
+            "color": "#7a8840",
+            "colorVenas": "#ffffff"
+          }
+        },
+        "descripcion": "Procedente de la isla volcánica de Hachijo al sur de Japón. Internodos naturalmente más cortos con hojas profundamente dentadas. La corteza desarrolla estrías blancas con la madurez. Llamativo color otoñal en amarillos y rojos."
+      }
+    },
+    {
+      "nombre": "A. P. Kinran",
+      "clave": "acerpalmatumkinran",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Kinran'",
+        "origen": "Japón",
+        "exposicion": "",
+        "crecimiento": "Lento",
+        "altura": "1,5–3",
+        "anchura": "1,5–2,5",
+        "porte": "",
+        "hoja": "Palmeada, 5–7 lóbulos, textura sedosa",
+        "tags": [
+          "Hoja dorada",
+          "Varias estaciones",
+          "Raro",
+          "Grupo Aureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Dorado-amarillo brillante",
+            "color": "#d4a820"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde-dorado",
+            "color": "#8a9820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · oro intenso",
+            "colores": [
+              "#d06020",
+              "#c89010"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas finas pardas",
+            "color": "#7a6040"
+          }
+        },
+        "descripcion": "Su nombre japonés significa 'brocado de oro'. Las hojas brotan en primavera con un luminoso amarillo dorado que recuerda a la seda tornasolada, virando a verde-dorado en verano para no sufrir quemaduras. En otoño recupera los tonos cálidos con naranjas y oros intensos. Cultivar poco frecuente que aporta luz al jardín sin el riesgo de escaldado del 'Katsura'.",
+        "traduccion": "Brocado de oro"
+      }
+    },
+    {
+      "nombre": "A. P. Kogane Nishiki",
+      "clave": "acerpalmatumkoganenishiki",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Kogane Nishiki'",
+        "traduccion": "Brocado dorado",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "2–4",
+        "anchura": "2–3",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Otoño espectacular",
+          "Corteza ornamental",
+          "Grupo Red Wood"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde-amarillo",
+            "color": "#90c040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Dorado brillante",
+            "color": "#c8a020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas con estrías amarillas",
+            "color": "#c8b040"
+          }
+        },
+        "descripcion": "Su nombre 'brocado dorado' hace referencia a su espectacular color otoñal. Las hojas verdes del verano se transforman en un dorado brillante en otoño. Las ramas maduras desarrollan estrías amarillas que añaden interés en invierno. Cultivar de tamaño moderado y aspecto elegante."
+      }
+    },
+    {
+      "nombre": "A. P. Koto no ito",
+      "clave": "acerpalmatumkotonoito",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Koto no ito'",
+        "traduccion": "Cuerdas de arpa dorada",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,8–3",
+        "anchura": "1,8–3",
+        "porte": "erecto",
+        "hoja": "Lineal muy estrecha, 5–7 lóbulos hilo",
+        "tags": [
+          "Semienano",
+          "Hoja de cinta",
+          "Grupo Linearilobum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Carmín suave",
+            "color": "#b84040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#7ab040"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#d08020",
+              "#c04020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Corteza verde destacada",
+            "color": "#5a9830"
+          }
+        },
+        "descripcion": "Su nombre significa 'cuerdas de arpa dorada'. Lóbulos tan finos que parecen hilos. El primer brote en primavera emerge carmín antes de tornarse verde brillante. La corteza verde es un atractivo adicional en invierno. Uno de los más hoja de hilo del grupo linearilobum.",
+        "color_rep": "#7ab040"
+      }
+    },
+    {
+      "nombre": "A. P. Kotohime",
+      "clave": "acerpalmatumkotohime",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Kotohime'",
+        "traduccion": "Pequeña princesa arpa",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,8–2,5",
+        "anchura": "1,5",
+        "porte": "enano",
+        "hoja": "Palmeada muy pequeña, 5–7 lóbulos",
+        "tags": [
+          "Enano",
+          "Internodos muy cortos",
+          "Bonsai natural",
+          "Grupo Crispum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo que muda a verde",
+            "color": "#c04040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde denso",
+            "color": "#4a8020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#c04020",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Estructura escultórica upright",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Enano de internodos muy cortos que fuerza las hojas a crecer en rosetas apretadas. Se considera un bonsai natural por su estructura densa y arquitectónica. Las hojas emergen rojas en primavera y se tornan verde denso. Es de los primeros palmatum en brotar en primavera."
+      }
+    },
+    {
+      "nombre": "A. P. Manyo No Sato",
+      "clave": "acerpalmatummanyonosato",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Manyo No Sato'",
+        "traduccion": "Pueblo de diez mil hojas",
+        "origen": "Japón (Tsukasa Nursery, Tokyo, 1993)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "2,5",
+        "anchura": "1,8",
+        "porte": "erecto",
+        "hoja": "Variegada disectada, lóbulos estrechos",
+        "tags": [
+          "Variegado",
+          "Bordes chartreuse",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "borde",
+            "desc": "Borde chartreuse · interior burdeos",
+            "colorBorde": "#d8c840",
+            "colorInterior": "#8b1a3a"
+          },
+          "verano": {
+            "tipo": "borde",
+            "desc": "Borde verde · interior rojo",
+            "colorBorde": "#7a9020",
+            "colorInterior": "#6b1028"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo-naranja ardiente",
+            "color": "#c04020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre significa 'pueblo de diez mil hojas'. Los lóbulos largos y profundamente divididos muestran una combinación de burdeos-rojo con bordes chartreuse muy poco común. En sombra las zonas verdes predominan; en sol el rojo es más intenso. Introducido por Yutaka Tunaka en Tokio."
+      }
+    },
+    {
+      "nombre": "A. P. Mikawa yatsubusa",
+      "clave": "acerpalmatummikawayatsubusa",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Mikawa yatsubusa'",
+        "traduccion": "Tres ríos",
+        "origen": "Japón — hallado en región Tōkai, años 1970",
+        "exposicion": "Semisombra",
+        "crecimiento": "Muy lento",
+        "altura": "1–1,5",
+        "anchura": "0,9–1,2",
+        "porte": "enano",
+        "hoja": "Palmeada pequeña compacta, capas superpuestas",
+        "tags": [
+          "Enano",
+          "Bonsai natural",
+          "Grupo Crispum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "multi",
+            "desc": "Amarillo-verde · lima · bronce",
+            "colores": [
+              "#a8c840",
+              "#c8e060",
+              "#d8b040"
+            ]
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro en capas",
+            "color": "#3a7020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · amarillo",
+            "colores": [
+              "#c0392b",
+              "#d08020",
+              "#c8c020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Estructura escultórica",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Premio Maple of the Year 2015. Sus hojas se superponen como tejas de un tejado creando capas densas de follaje — efecto único entre todos los arces. Crece solo 3–5 cm por año. La estructura escultórica de ramas es un atractivo adicional en invierno."
+      }
+    },
+    {
+      "nombre": "A. P. Mingüelín",
+      "clave": "acerpalmatumminguelin",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Mingüelín'",
+        "origen": "España (Casa Iubita)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–5",
+        "anchura": "2–3",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Español",
+          "Ejemplar único",
+          "Grupo Palmatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#77b061"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#639127"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#c04020",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Arce de semilla de La Viesca'l Rexidor, de Miguel Llanas Valdés, denominado localmente en Casa Iubita. Ejemplar con carácter propio de la colección. Su nombre es un homenaje cariñoso al jardinero del lugar donde nació."
+      }
+    },
+    {
+      "nombre": "A. P. Murasaki Kiyohime",
+      "clave": "acerpalmatummurasakikiyohime",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Murasaki Kiyohime'",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado-vigoroso",
+        "altura": "0,6–0,9",
+        "anchura": "1,2–1,8",
+        "porte": "enano",
+        "hoja": "Palmeada pequeña con borde, 5 lóbulos",
+        "tags": [
+          "Enano",
+          "Borde rojo primavera",
+          "Grupo Marginatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "borde",
+            "desc": "Borde rojo-púrpura · interior verde",
+            "colorBorde": "#8b1a30",
+            "colorInterior": "#c8d840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#4a8020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#d08020",
+              "#c04020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Estructura tiered",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Enano del grupo yatsubusa más ancho que alto. Un ejemplar de 50 años puede ser de más de 3 m de ancho y menos de 1,2 m de alto. Las hojas pequeñas tienen vistoso borde rojo-púrpura en primavera. Excelente para bonsai y rocallas."
+      }
+    },
+    {
+      "nombre": "A. P. Nicholsonii",
+      "clave": "acerpalmatumnicholsonii",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Nicholsonii'",
+        "origen": "Japón · introducido en Europa h. 1896",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–5",
+        "anchura": "2–4",
+        "porte": "erecto-redondeado",
+        "hoja": "Palmeada, 7 lóbulos estrechos y muy acuminados",
+        "tags": [
+          "Hoja verde",
+          "Otoño espectacular",
+          "Clásico japonés",
+          "Grupo Matsumurae"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde medio",
+            "color": "#5a8c30"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#3a6020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Escarlata · naranja llameante",
+            "colores": [
+              "#c8321a",
+              "#e06820"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas gris-pardas",
+            "color": "#7a6850"
+          }
+        },
+        "descripcion": "Cultivar antiguo introducido en Europa a finales del siglo XIX, apreciado por sus hojas de siete lóbulos muy estrechos y largamente acuminados que le dan una textura delicada y casi disectum sin llegar a serlo. El follaje verde medio en verano se transforma en otoño en una explosión de escarlata y naranja. Ejemplar de carácter clásico y probada rusticidad."
+      }
+    },
+    {
+      "nombre": "A. P. Nishiki No Murasaki",
+      "clave": "acerpalmatumnishikinomurasaki",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Nishiki no Murasaki'",
+        "traduccion": "Brocado púrpura",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–5",
+        "anchura": "2,5–4",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja púrpura",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Púrpura oscuro",
+            "color": "#6b1a3a"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos muy oscuro",
+            "color": "#4a0828"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo intenso",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre significa 'brocado púrpura'. Follaje de tonalidad muy oscura y profunda durante toda la temporada. Las hojas son burdeos muy oscuro en verano, contrastando intensamente con el verde de otros árboles del jardín. El otoño trae un rojo intenso y brillante."
+      }
+    },
+    {
+      "nombre": "A. P. Orange dream",
+      "clave": "acerpalmatumorangedream",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Orange Dream'",
+        "origen": "Italia (Fratelli Gilardelli, 1990) · RHS AGM",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–4",
+        "anchura": "3",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "RHS AGM",
+          "Hoja naranja",
+          "Grupo Aureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "borde",
+            "desc": "Naranja con interior amarillo",
+            "colorBorde": "#e8a040",
+            "colorInterior": "#d8d840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde-amarillo chartreuse",
+            "color": "#a8c040"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Naranja-amarillo brillante",
+            "color": "#d08020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Corteza verde llamativa",
+            "color": "#5a9830"
+          }
+        },
+        "descripcion": "Cultivar italiano con el Premio AGM de la RHS. Las hojas emergen dorado-anaranjadas con bordes rosas en primavera. En verano viran a chartreuse y en otoño a naranja-amarillo brillante. La corteza verde añade interés en invierno.",
+        "color_rep": "#f48b10"
+      }
+    },
+    {
+      "nombre": "A. P. Orange Lace",
+      "clave": "acerpalmatumorangelace",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Orange Lace'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "2–2,5",
+        "anchura": "2–2,5",
+        "porte": "cascada",
+        "hoja": "Disectada, 7–9 lóbulos",
+        "tags": [
+          "Dissectum",
+          "Dissectum naranja",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Naranja brillante",
+            "color": "#e09040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Naranja-verde",
+            "color": "#d08030"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#c0392b",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas lloronas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Disectado con llamativas tonalidades naranjas que lo diferencian de la mayoría del grupo. Las hojas en encaje emergen naranja brillante en primavera y mantienen tonos cálidos durante el verano. Cúpula lloronas típica del grupo disectum."
+      }
+    },
+    {
+      "nombre": "A. P. Orangeola",
+      "clave": "acerpalmatumorangeola",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Orangeola'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "2–2,5",
+        "anchura": "2–2,5",
+        "porte": "cascada",
+        "hoja": "Disectada, 7–9 lóbulos",
+        "tags": [
+          "Dissectum",
+          "Dissectum naranja",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Naranja-rojo",
+            "color": "#c84020"
+          },
+          "verano": {
+            "tipo": "multi",
+            "desc": "Rojo-verde · nueva brotación naranja",
+            "colores": [
+              "#8b1820",
+              "#e08040"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#c04020",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas lloronas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Disectado muy llamativo por su efecto bicolor en verano: el follaje maduro vira a rojo-verde mientras la nueva brotación emerge naranja brillante. Forma piramidal ligeramente inversa que lo distingue de otros disectados. Otoño en naranjas y rojos."
+      }
+    },
+    {
+      "nombre": "A. P. Oranges & Lemons",
+      "clave": "acerpalmatumorangeslemons",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Oranges & Lemons'",
+        "origen": "Reino Unido",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–4",
+        "anchura": "2,5–3",
+        "porte": "erecto",
+        "hoja": "Palmeada variegada, 5–7 lóbulos",
+        "tags": [
+          "Variegado",
+          "Grupo Variegatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "multi",
+            "desc": "Naranja · amarillo · verde",
+            "colores": [
+              "#e09040",
+              "#d8d040",
+              "#6a9030"
+            ]
+          },
+          "verano": {
+            "tipo": "manchas",
+            "desc": "Verde · amarillo",
+            "colores": [
+              "#5a8830",
+              "#d8c040"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#d06820",
+              "#c0392b"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar británico con colorido que justifica su nombre: en primavera las hojas muestran una mezcla de naranja, amarillo y verde simultáneamente, evocando la paleta de cítricos. En verano predomina el verde con manchas amarillas. Otoño en naranjas y rojos."
+      }
+    },
+    {
+      "nombre": "A. P. Oridono nishiki",
+      "clave": "acerpalmatumoridononishiki",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Oridono nishiki'",
+        "traduccion": "Tejido rico en colores del maestro",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–6",
+        "anchura": "2–3",
+        "porte": "erecto",
+        "hoja": "Variegada, 5–7 lóbulos",
+        "tags": [
+          "Variegado",
+          "Corteza ornamental",
+          "Grupo Variegatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "manchas",
+            "desc": "Rosa intenso · crema · verde",
+            "colores": [
+              "#d4547e",
+              "#f0f0ec",
+              "#4a7c2f"
+            ]
+          },
+          "verano": {
+            "tipo": "manchas",
+            "desc": "Verde · crema-blanco",
+            "colores": [
+              "#3a6020",
+              "#e8e8dc"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · dorado",
+            "colores": [
+              "#c0392b",
+              "#e07a20",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas con estrías rosas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Uno de los variegados más llamativos: cada hoja es diferente. La primavera despliega una mezcla explosiva de rosa intenso, blanco crema y verde. Las ramas jóvenes presentan características estrías rosas. La variegación es más intensa en semisombra."
+      }
+    },
+    {
+      "nombre": "A. P. Ornatum",
+      "clave": "acerpalmatumornatum",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Ornatum'",
+        "nombre_alt": "Dissectum Ornatum",
+        "origen": "Japón (cultivar muy antiguo)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "2–2,5",
+        "anchura": "2–2,5",
+        "porte": "cascada",
+        "hoja": "Disectada, 7–9 lóbulos finos",
+        "tags": [
+          "Dissectum",
+          "Dissectum rojo",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo-bronce",
+            "color": "#8b1a30"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos oscuro",
+            "color": "#6b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Carmesí vibrante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas lloronas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Disectado rojo antiquísimo, uno de los primeros cultivados en Europa. Cúpula amplia con follaje en encaje burdeos oscuro en verano. Porte en seta perfecta con la edad. El otoño aporta un carmesí vibrante sobre las ramas lloronas."
+      }
+    },
+    {
+      "nombre": "A. P. Osakazuki",
+      "clave": "acerpalmatumosakazuki",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Osakazuki'",
+        "origen": "Japón (cultivar muy antiguo)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–5",
+        "anchura": "4–5",
+        "porte": "erecto",
+        "hoja": "Palmeada, 7 lóbulos",
+        "tags": [
+          "Otoño espectacular",
+          "Clásico japonés",
+          "Grupo Amoenum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde-bronce",
+            "color": "#90a840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata ardiente",
+            "color": "#e02020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Considerado uno de los mejores para color otoñal entre todos los arces japoneses. Las hojas verdes del verano se transforman en un escarlata ardiente uniforme y brillante. Cultivar antiguo con siglos de historia en jardines japoneses."
+      }
+    },
+    {
+      "nombre": "A. P. Pectinatum sirene",
+      "clave": "acerpectinatumsirene",
+      "ficha": {
+        "cientifico": "Acer pectinatum 'Sirene'",
+        "origen": "A. pectinatum · Himalaya, China occidental",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "5–8",
+        "anchura": "4–5",
+        "porte": "erecto",
+        "hoja": "Ovalada con punta, levemente lobulada",
+        "tags": [
+          "Snake bark",
+          "Corteza ornamental",
+          "A. Pectinatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#6a9840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · dorado",
+            "colores": [
+              "#c0392b",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "snake_bark",
+            "desc": "Corteza verde rayada blanca",
+            "color": "#5a7840",
+            "colorVenas": "#ffffff"
+          }
+        },
+        "descripcion": "Arce de corteza de serpiente con tronco verde y rayas blancas inconfundibles en invierno. Las hojas ovaladas con punta larga son muy distintas de los palmatum. La corteza rayada es el principal atractivo ornamental en la estación fría."
+      }
+    },
+    {
+      "nombre": "A. P. Peve Starfish",
+      "clave": "acerpalmatumpevestarfish",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Peve Starfish'",
+        "origen": "Países Bajos (Piet Vergeldt)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,8–2,5",
+        "anchura": "1,5–2",
+        "porte": "enano",
+        "hoja": "Palmeada curvada hacia abajo, 5–7 lóbulos",
+        "tags": [
+          "Hoja estrellada",
+          "Raro",
+          "Enano",
+          "Grupo Convexum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo-púrpura profundo",
+            "color": "#8b1a30"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos oscuro",
+            "color": "#6b0a20"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Carmesí brillante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Introducción de Piet Vergeldt. Sus hojas se curvan hacia abajo dando apariencia de estrella de mar. Brotaciones rojas durante toda la temporada al empujar nuevo crecimiento. Cultivar semienano que alcanza 6–8 pies en 20 años."
+      }
+    },
+    {
+      "nombre": "A. P. Pixie",
+      "clave": "acerpalmatumpixie",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Pixie'",
+        "origen": "EE.UU.",
+        "exposicion": "Sol",
+        "crecimiento": "Lento",
+        "altura": "1,5-2",
+        "anchura": "0,9–1,5",
+        "porte": "enano",
+        "hoja": "Palmeada pequeña, 5–7 lóbulos",
+        "tags": [
+          "Enano",
+          "Hoja roja",
+          "Grupo Palmatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro",
+            "color": "#6b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo",
+            "color": "#8b1020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar enano con hojas pequeñas de color rojo brillante. Porte globoso y compacto, muy lento creciendo. Ideal para contenedores pequeños, rocallas y bonsai. Necesita sol para estar rojo, las hojas más protegidas verdean. Versión mini y compacta del Bloodgood."
+      }
+    },
+    {
+      "nombre": "A. P. Purple ghost",
+      "clave": "acerpalmatumpurpleghost",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Purple Ghost'",
+        "origen": "Serie Ghost (EE.UU.)",
+        "exposicion": "Semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–5",
+        "anchura": "2–2,5",
+        "porte": "erecto",
+        "hoja": "Reticulada, 7 lóbulos",
+        "tags": [
+          "Reticulado",
+          "Serie Ghost",
+          "Grupo Reticulatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "reticulado",
+            "desc": "Púrpura · venas lavanda",
+            "colorFondo": "#7a1a3a",
+            "colorVenas": "#c8c0e0"
+          },
+          "verano": {
+            "tipo": "reticulado",
+            "desc": "Burdeos · venas malva",
+            "colorFondo": "#5a1028",
+            "colorVenas": "#9080b0"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata vibrante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Impresionante arce reticulado de la serie Ghost con follaje púrpura surcado por venas lavanda muy marcadas. Uno de los más oscuros de la serie. Prefiere semisombra para preservar la reticulación y evitar quemaduras en el follaje."
+      }
+    },
+    {
+      "nombre": "A. P. Red Pygmy",
+      "clave": "acerpalmatumredpygmy",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Red Pygmy'",
+        "origen": "Países Bajos",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,5–2",
+        "anchura": "1–1,5",
+        "porte": "enano",
+        "hoja": "Lineal en cinta roja, 5–7 lóbulos",
+        "tags": [
+          "Enano",
+          "Hoja de cinta",
+          "Grupo Linearilobum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo-naranja",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo muy oscuro",
+            "color": "#530b22"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja",
+            "colores": [
+              "#c04020",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Enano con hojas en cinta muy estrechas de color rojo oscuro. Porte compacto y ligeramente columnar que lo diferencia de otros enanos. Las hojas lineares crean un efecto muy diferente al palmatum clásico. El rojo muy oscuro del verano es especialmente llamativo.",
+        "color_rep": "#430a16"
+      }
+    },
+    {
+      "nombre": "A. P. Ruby Stars",
+      "clave": "acerpalmatumrubystars",
+      "ficha": {
+        "altura": "1-2",
+        "anchura": "1",
+        "porte": "enano",
+        "exposicion": "Semisombra",
+        "hoja": "Palmeada, 5 lóbulos muy marcados",
+        "crecimiento": "Muy lento",
+        "tags": [
+          "Hoja estrellada",
+          "Grupo Palmatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo rubí",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oliva",
+            "color": "#465013"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Dorado, naranja y carmesí",
+            "colores": [
+              "#f0e040",
+              "#cc5520",
+              "#8b1020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Marrón grisáceo",
+            "color": "#524132"
+          }
+        },
+        "descripcion": "Variedad enana que destaca principalmente por su follaje compacto con silueta estrellada y un espectacular cambio de color cromático a lo largo de las estaciones. Hojas pequeñas con forma de estrella.",
+        "cientifico": "Acer palmatum Ruby Stars",
+        "nombre_alt": "Acer palmatum Beni Hoshi",
+        "traduccion": "Estrella roja",
+        "origen": "Japón"
+      }
+    },
+    {
+      "nombre": "A. P. Ryusen",
+      "clave": "acerpalmatumryusen",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Ryusen'",
+        "traduccion": "Dragón de río",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "0,9–1,5",
+        "anchura": "2–3",
+        "porte": "cascada",
+        "hoja": "Disectada, 7–9 lóbulos",
+        "tags": [
+          "Dissectum",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#3a7020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · amarillo",
+            "colores": [
+              "#c0392b",
+              "#d08020",
+              "#c8c020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas lloronas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Disectado de porte llorón que crece pegado al suelo o se deja caer en cascada desde una guía. El follaje disectado verde brillante crea una cortina densa. Espectacular en otoño con la mezcla de rojo, naranja y amarillo. Ideal junto a estanques o sobre muros."
+      }
+    },
+    {
+      "nombre": "A. P. Sangokaku",
+      "clave": "acerpalmatumsangokaku",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Sango kaku'",
+        "nombre_alt": "Senkaki",
+        "traduccion": "Torre de coral",
+        "origen": "Japón · Introducido en Europa c. 1910",
+        "exposicion": "Sol",
+        "crecimiento": "Moderado-rápido",
+        "altura": "6–8",
+        "anchura": "4–6",
+        "porte": "vaso",
+        "hoja": "Palmeada, 5 lóbulos",
+        "tags": [
+          "Corteza ornamental",
+          "Varias estaciones",
+          "Grupo Red Wood"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde-amarillo brillante",
+            "color": "#c8e060"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde medio",
+            "color": "#4a7c2f"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Amarillo dorado",
+            "color": "#d8c030"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas rojo coral",
+            "color": "#c04030"
+          }
+        },
+        "descripcion": "El arce de la corteza coral, también llamado Senkaki. Su nombre significa 'torre de coral'. En invierno sus ramas jóvenes lucen un rojo coral intensísimo, su rasgo más característico. En otoño el follaje se vuelve amarillo dorado antes de caer y dejar al descubierto el espectáculo de sus ramas. Según algunas fuentes se dan extraordinariamente bien en el desierto de México."
+      }
+    },
+    {
+      "nombre": "A. P. Saoshika",
+      "clave": "acerpalmatumsaoshika",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Saoshika'",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "1–2",
+        "anchura": "1–1,5",
+        "porte": "",
+        "hoja": "Palmeada pequeña, 5–7 lóbulos, margen muy dentado",
+        "tags": [
+          "Enano",
+          "Hoja verde",
+          "Brotación coral",
+          "Raro",
+          "Grupo Corallinum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde coral-salmón emergente",
+            "color": "#c87858"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde fresco medio",
+            "color": "#4a8030"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja coral",
+            "colores": [
+              "#c83820",
+              "#d86030"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas finas verdosas",
+            "color": "#6a7848"
+          }
+        },
+        "descripcion": "El nombre 'Saoshika' alude al ciervo joven en la poesía clásica japonesa. Cultivar enano poco común de porte compacto y hoja pequeña con margen muy dentado. En primavera las hojas emergen con una llamativa tonalidad coral-salmón antes de abrirse al verde fresco del verano. El otoño devuelve los rojos y naranjas cálidos. Ideal para maceta o jardín de pequeña escala.",
+        "traduccion": "Ciervo joven"
+      }
+    },
+    {
+      "nombre": "A. P. Satsuki Beni",
+      "clave": "acerpalmatumsatsukibeni",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Satsuki Beni'",
+        "origen": "Japón — grupo corallinum",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–4",
+        "anchura": "2,5–3",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "Brotación coral",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "borde",
+            "desc": "Verde lima con rojo intenso",
+            "colorBorde": "#c02020",
+            "colorInterior": "#90c840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde con matices rojos",
+            "color": "#6a9030"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo-naranja",
+            "color": "#c04020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar del grupo corallinum con espectacular brotación roja en primavera. Las hojas emergen de color rojo intenso antes de virar al verde durante el verano. El color otoñal combina rojos y naranjas. Apreciado especialmente por su color primaveral muy temprano."
+      }
+    },
+    {
+      "nombre": "A. P. Scolopendrifolium",
+      "clave": "acerpalmatumscolopendrifolium",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Scolopendrifolium'",
+        "nombre_alt": "Shinobuga oka",
+        "origen": "Japón · Corea · China",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "2,5–3",
+        "anchura": "2",
+        "porte": "erecto",
+        "hoja": "Lineal, 5 lóbulos muy estrechos",
+        "tags": [
+          "Corteza ornamental",
+          "Hoja de cinta",
+          "Grupo Linearilobum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#5a9030"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#3a6820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Dorado · rojo",
+            "colores": [
+              "#c8a020",
+              "#c04020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Corteza roja oscura",
+            "color": "#6a3a20"
+          }
+        },
+        "descripcion": "También conocido como 'Shinobuga oka'. Destaca por sus lóbulos más anchos que otros del grupo lineal y por su llamativa corteza roja oscura en las ramas jóvenes. Porte erecto con estructura ramificada muy ornamental en invierno. Abunda en flores y semillas rojas."
+      }
+    },
+    {
+      "nombre": "A. P. Seiryu",
+      "clave": "acerpalmatumseiryu",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Seiryu'",
+        "traduccion": "Dragón verde-azulado",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "5–6",
+        "anchura": "4–5",
+        "porte": "columnar",
+        "hoja": "Disectada, 7–9 lóbulos finos",
+        "tags": [
+          "Dissectum",
+          "Dissectum erecto",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde lima",
+            "color": "#90c840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#4a8830"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · amarillo",
+            "colores": [
+              "#c0392b",
+              "#d08020",
+              "#c8c020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "El único disectado con porte claramente erecto y columnar — una rareza en el mundo de los arces en encaje. Hojas con finos lóbulos disectados en un árbol de estructura abierta y aireada. Crece hasta 5–6 m manteniendo la forma. El otoño combina rojo, naranja y amarillo. Hongos en 2024 y 2025 que obligó a podas drásticas."
+      }
+    },
+    {
+      "nombre": "A. P. Shaina",
+      "clave": "acerpalmatumshaina",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Shaina'",
+        "origen": "Japón · Corea · China",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Muy lento",
+        "altura": "1,5–2",
+        "anchura": "0,9–1,2",
+        "porte": "globoso",
+        "hoja": "Palmeada, 5–7 lóbulos densa",
+        "tags": [
+          "Hoja roja",
+          "Porte compacto",
+          "Grupo Witches Broom"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c84040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos oscuro",
+            "color": "#6b1a28"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Carmesí vibrante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar enano de porte globoso muy compacto, mutante espontáneo del 'Bloodgood'. Sus hojas emergen rojo brillante en primavera y se oscurecen a burdeos durante el verano, para retornar a un carmesí intenso en otoño. Crece unos 5–10 cm por año."
+      }
+    },
+    {
+      "nombre": "A. P. Shidava Gold",
+      "clave": "acerpalmatumshidavagold",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Shidava Gold'",
+        "origen": "Países Bajos (Dick van der Maat)",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,5–2",
+        "anchura": "1,5–2",
+        "porte": "enano",
+        "hoja": "Palmeada pequeña, 5–7 lóbulos",
+        "tags": [
+          "Enano",
+          "Grupo Palmatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "color": "#d8c840",
+            "desc": "Dorado-amarillo brillante"
+          },
+          "verano": {
+            "tipo": "solido",
+            "color": "#b0a020",
+            "desc": "Dorado-verde"
+          },
+          "otono": {
+            "tipo": "multi",
+            "colores": [
+              "#d08020",
+              "#c0392b"
+            ],
+            "desc": "Naranja · rojo"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "color": "#7a5530",
+            "desc": "Ramas pardas"
+          }
+        },
+        "descripcion": "Enano dorado introducido por Dick van der Maat de los Países Bajos. Las hojas emergen en un dorado-amarillo brillante que se mantiene con buena intensidad durante la temporada. El otoño trae naranjas y rojos llamativos. Ideal para pequeñas colecciones y macetas."
+      }
+    },
+    {
+      "nombre": "A. P. Sister Ghost",
+      "clave": "acerpalmatumsisterghost",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Sister Ghost'",
+        "origen": "Buchholz Nursery (EE.UU.) · Serie Ghost",
+        "exposicion": "Semisombra",
+        "crecimiento": "Moderado",
+        "altura": "2,5–4",
+        "anchura": "2–2,5",
+        "porte": "extendido",
+        "hoja": "Reticulada, 7 lóbulos",
+        "tags": [
+          "Reticulado",
+          "Serie Ghost",
+          "Grupo Reticulatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "reticulado",
+            "desc": "Crema-amarillo · venas verdes · puntas rosas",
+            "colorFondo": "#e8e8b0",
+            "colorVenas": "#3a6020"
+          },
+          "verano": {
+            "tipo": "reticulado",
+            "desc": "Verde · reticulado claro",
+            "colorFondo": "#4a7830",
+            "colorVenas": "#d8e8b0"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · dorado · rojo",
+            "colores": [
+              "#d06820",
+              "#c8a020",
+              "#c03820"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "La reticulación más característica de la serie Ghost. En primavera las hojas tienen fondo amarillo-crema con venas verdes muy marcadas y puntas rosadas. En verano el verde gana protagonismo manteniendo el reticulado claro. El otoño combina naranja, dorado y rojo."
+      }
+    },
+    {
+      "nombre": "A. P. Skeeter broom",
+      "clave": "acerpalmatumskeetersbroom",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Skeeter's Broom'",
+        "origen": "Pennsylvania (EE.UU.) — escoba de bruja",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "1–1,2",
+        "anchura": "0,9–1,5",
+        "porte": "enano",
+        "hoja": "Palmeada pequeña, 5–7 lóbulos",
+        "tags": [
+          "Enano",
+          "Hoja roja",
+          "Grupo Witches Broom"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c84040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo-púrpura oscuro",
+            "color": "#8b1a30"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo puro",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Escoba de bruja descubierta por Ed 'Skeeter' Rod en Pennsylvania. Porte muy compacto y tupido con hojas pequeñas rojo brillante en primavera que oscurecen a rojo-púrpura. Más vigoroso y fácil que otras escobas de bruja. Ideal para macetas y bonsai."
+      }
+    },
+    {
+      "nombre": "A. P. Suminagashi",
+      "clave": "acerpalmatumsuminagashi",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Suminagashi'",
+        "traduccion": "Papel jaspeado con tinta",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado-vigoroso",
+        "altura": "4–5",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Palmeada profunda, 7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "Grande",
+          "Samaras rojas brillantes",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo-púrpura brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "multi",
+            "desc": "Rojo oscuro · verde",
+            "colores": [
+              "#8b1a28",
+              "#5a7020"
+            ]
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo carmesí",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Corteza verde con semillas rojas",
+            "color": "#5a9830"
+          }
+        },
+        "descripcion": "El nombre evoca la técnica japonesa de marmolar papel con agua y tinta. Uno de los mejores rojos de hoja grande en el grupo profundamente dividido. Corteza verde y semillas rojas muy llamativas en verano, especialmente a contraluz. Vigoroso en la juventud, porte en vaso que se amplía con la edad."
+      }
+    },
+    {
+      "nombre": "A. P. Summergold",
+      "clave": "acerpalmatumsummergold",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Summergold'",
+        "origen": "Países Bajos",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "2,5–3",
+        "anchura": "2–2,5",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Hoja dorada",
+          "Grupo Aureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde-amarillo intenso",
+            "color": "#d8c840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Dorado-amarillo",
+            "color": "#ffeb27"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Naranja-dorado",
+            "color": "#d06820"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar muy apreciado por su follaje dorado que se mantiene llamativo durante todo el verano — poco habitual en los palmatum. Las hojas son amarillo-verdosas en primavera y doradas en verano antes de naranjarse en otoño.\nMurió y rebotó en 2023, con tronco trenzado.",
+        "color_rep": "#ece341"
+      }
+    },
+    {
+      "nombre": "A. P. Taylor",
+      "clave": "acerpalmatumtaylor",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Taylor'",
+        "origen": "EE.UU.",
+        "exposicion": "Sombra / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "2–3",
+        "anchura": "2–3",
+        "porte": "extendido",
+        "hoja": "Palmeada, 5–7 lóbulos, ligeramente retorcida",
+        "tags": [
+          "Grupo Variegatum",
+          "Hoja rosa",
+          "Variegado"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "multi",
+            "desc": "Rosa y blaco",
+            "colores": [
+              "#fd7ca7",
+              "#ffffff"
+            ]
+          },
+          "verano": {
+            "tipo": "multi",
+            "desc": "Verde y rosado",
+            "colores": [
+              "#c13159",
+              "#c8e0a0"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Amarillo y rojo rosado",
+            "colores": [
+              "#a04060",
+              "#ede3ab"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Arce con tendencia al suicidio. Muy delicado, se quema con mirarlo y hay que tener mucho cuidado con el riego para que no seque. Si aguanta es de los más espectaculares."
+      }
+    },
+    {
+      "nombre": "A. P. Trompemburg",
+      "clave": "acerpalmatumtrompenburg",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Trompenburg'",
+        "origen": "Países Bajos (Jardín Trompenburg)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado-vigoroso",
+        "altura": "6–7,5",
+        "anchura": "4,5–6",
+        "porte": "erecto",
+        "hoja": "Palmeada, lóbulos enrollados hacia dentro",
+        "tags": [
+          "Lóbulos en tubo único",
+          "Grande",
+          "Grupo Convexum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo-púrpura",
+            "color": "#8b1a30"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos muy oscuro",
+            "color": "#5a0a1a"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Carmesí",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar único con lóbulos que se enrollan hacia dentro formando tubos — inconfundible entre todos los palmatum. Vigoroso y de gran porte para la especie. El follaje púrpura muy oscuro en verano es uno de los más intensos del género. Árbol focal de gran impacto."
+      }
+    },
+    {
+      "nombre": "A. P. Tsukasa Silhouette",
+      "clave": "acerpalmatumtsukasasilhouette",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Tsukasa Silhouette'",
+        "origen": "EE.UU. (Don Schmidt Nursery)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado-vigoroso",
+        "altura": "5–6",
+        "anchura": "1,2–1,5",
+        "porte": "columnar",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Tolera el sol",
+          "Grupo Palmatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde lima",
+            "color": "#90c840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#4a8020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "El equivalente verde del 'Twombly's Red Sentinel'. Forma columnar muy estrecha — solo 1,2–1,5 m de ancho. Ideal para espacios estrechos y como punto de exclamación vertical. Uno de los más tolerantes al sol y al calor."
+      }
+    },
+    {
+      "nombre": "A. P. Tsumagaki",
+      "clave": "acerpalmatumtsumagaki",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Tsumagaki'",
+        "traduccion": "Uñas pintadas",
+        "origen": "Japón · Corea · China",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento-moderado",
+        "altura": "3–4",
+        "anchura": "2–3",
+        "porte": "erecto",
+        "hoja": "Palmeada con borde, 5–7 lóbulos",
+        "tags": [
+          "Hoja con borde rojo",
+          "Grupo Marginatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "borde",
+            "desc": "Borde rojo · interior verde claro",
+            "colorBorde": "#c84040",
+            "colorInterior": "#d1e681"
+          },
+          "verano": {
+            "tipo": "borde",
+            "desc": "Borde pardo · verde",
+            "colorBorde": "#7a6030",
+            "colorInterior": "#5a8030"
+          },
+          "otono": {
+            "tipo": "borde",
+            "desc": "Borde rojo · dorado",
+            "colorBorde": "#c04020",
+            "colorInterior": "#d08020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre significa 'borde de color'. Las hojas exhiben un llamativo contraste entre el borde rojo y el interior más claro, que varía según la estación. Cultivar poco frecuente y muy apreciado por coleccionistas.",
+        "color_rep": "#7ab040"
+      }
+    },
+    {
+      "nombre": "A. P. Twombly's Red sentinel",
+      "clave": "acerpalmatumtwomblysredsentinel",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Twombly's Red Sentinel'",
+        "origen": "Connecticut (EE.UU.) — escoba de bruja de 'Bloodgood'",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento-moderado",
+        "altura": "3–4,5",
+        "anchura": "0,9–2",
+        "porte": "columnar",
+        "hoja": "Palmeada, 5–7 lóbulos estrechos",
+        "tags": [
+          "Único en palmatum",
+          "Grupo Matsumurae"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c82020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos-rojo",
+            "color": "#6b1a28"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata brillante",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas rojo oscuro",
+            "color": "#8b2020"
+          }
+        },
+        "descripcion": "El único palmatum de porte verdaderamente columnar con follaje rojo. Descubierto como escoba de bruja sobre un 'Bloodgood' por Ken Twombly. Perfectamente columnar toda su vida, ideal para espacios estrechos. El follaje rojo se mantiene bien durante el verano."
+      }
+    },
+    {
+      "nombre": "A. P. Uki gumo",
+      "clave": "acerpalmatumukigumo",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Ukigumo'",
+        "traduccion": "Nubes flotantes",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "2,5–3",
+        "anchura": "2,5–3",
+        "porte": "erecto",
+        "hoja": "Variegada, 5 lóbulos",
+        "tags": [
+          "Variegado",
+          "Grupo Variegatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "manchas_blancas",
+            "desc": "Blanco · verde · rosa",
+            "colorFondo": "#ffffff",
+            "manchas": "#fffaf0",
+            "borde": "#fbd2db"
+          },
+          "verano": {
+            "tipo": "manchas",
+            "desc": "Blanco · manchas rosa",
+            "colores": [
+              "#ddbbcd",
+              "#ffffff"
+            ]
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Amarillo · naranja",
+            "colores": [
+              "#d8a020",
+              "#d06020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Su nombre japonés significa 'nubes flotantes'. En primavera, abundantes manchas blancas flotan sobre un fondo verde muy claro con bordes rosados. Algunas hojas emergen completamente blancas o rosas. Crece mejor protegido del sol de tarde.",
+        "color_rep": "#f3fff4"
+      }
+    },
+    {
+      "nombre": "A. P. Villa Taranto",
+      "clave": "acerpalmatumvillataranto",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Villa Taranto'",
+        "origen": "Nombrado tras el jardín italiano Villa Taranto",
+        "exposicion": "Semisombra",
+        "crecimiento": "Moderado",
+        "altura": "1,8",
+        "anchura": "1,5",
+        "porte": "erecto",
+        "hoja": "Lineal en cinta, 5–7 lóbulos muy estrechos",
+        "tags": [
+          "Varias estaciones",
+          "Hoja de cinta",
+          "Grupo Linearilobum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "color": "#e09060",
+            "desc": "Rosa-naranja suave"
+          },
+          "verano": {
+            "tipo": "multi",
+            "colores": [
+              "#c8a840",
+              "#6a9030"
+            ],
+            "desc": "Naranja-amarillo · verde"
+          },
+          "otono": {
+            "tipo": "multi",
+            "colores": [
+              "#d08020",
+              "#c8c020"
+            ],
+            "desc": "Naranja · amarillo-dorado"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "color": "#7a5530",
+            "desc": "Ramas pardas"
+          }
+        },
+        "descripcion": "Nombrado tras los famosos jardines italianos de Villa Taranto. Lineal compacto cuya hoja cambia de color continuamente: rosa-naranja en primavera, naranja-amarillo y verde en verano, naranja y dorado en otoño. Uno de los favoritos entre los linearlobum por su dinamismo cromático."
+      }
+    },
+    {
+      "nombre": "A. P. Viridis",
+      "clave": "acerpalmatumviridis",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Viridis'",
+        "origen": "Japón",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "1,5–2,5",
+        "anchura": "2,5–3,5",
+        "porte": "cascada",
+        "hoja": "Disectada fina verde, 7–9 lóbulos",
+        "tags": [
+          "Dissectum",
+          "Dissectum verde",
+          "Grupo Dissectum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde lime",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde rico",
+            "color": "#3a7020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · amarillo",
+            "colores": [
+              "#c0392b",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas lloronas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Disectado verde clásico de cúpula amplia y follaje en encaje muy fino. En otoño la mezcla de rojo y amarillo sobre las ramas lloronas es muy llamativa. Similar al 'Dissectum' con ligeras diferencias de follaje y forma de copa."
+      }
+    },
+    {
+      "nombre": "A. P. Westonbrit Red",
+      "clave": "acerpalmatumwestonbirtred",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Westonbirt Red'",
+        "origen": "Reino Unido (Westonbirt Arboretum)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–5",
+        "anchura": "2,5–4",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Arboreto inglés",
+          "Hoja roja",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo brillante",
+            "color": "#c02020"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Rojo oscuro",
+            "color": "#8b1020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Escarlata",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Seleccionado en el famoso arboreto de Westonbirt, uno de los más importantes de Gran Bretaña. Cultivar de palmatum rojo con buenas características de color y porte. El rojo se mantiene durante el verano y culmina en escarlata brillante en otoño."
+      }
+    },
+    {
+      "nombre": "A. P. Wilson's pink dwarft",
+      "clave": "acerpalmatumwilsonspinkdwarf",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Wilson's Pink Dwarf'",
+        "origen": "EE.UU.",
+        "exposicion": "Semisombra",
+        "crecimiento": "Moderado",
+        "altura": "1,2–1,5",
+        "anchura": "1–1,5",
+        "porte": "globoso",
+        "hoja": "Palmeada pequeña, 5–7 lóbulos",
+        "tags": [
+          "Enano",
+          "Hoja rosa",
+          "Grupo Witches Broom"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rosa-salmón",
+            "color": "#e8a0a8"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde con matiz rosado",
+            "color": "#6a9840"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Naranja-rojo",
+            "color": "#d06820"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar enano con llamativos tonos rosas en la brotación primaveral. Las hojas emergen en un delicado rosa-salmón antes de virar al verde en verano. Porte muy compacto y globoso, ideal para rocallas y contenedores pequeños."
+      }
+    },
+    {
+      "nombre": "A. P. Yasemin",
+      "clave": "acerpalmatumyasemin",
+      "ficha": {
+        "cientifico": "Acer palmatum 'Yasemin'",
+        "origen": "Híbrido (posible A. palmatum × japonicum)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado-vigoroso",
+        "altura": "4–5",
+        "anchura": "2,5",
+        "porte": "erecto",
+        "hoja": "Palmeada profunda, 5–7 lóbulos",
+        "tags": [
+          "Hoja roja",
+          "Grupo Atropurpureum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rojo-púrpura intenso",
+            "color": "#8b1a3a"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Burdeos oscuro",
+            "color": "#6a1028"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Púrpura · rojo",
+            "colores": [
+              "#8b1a3a",
+              "#c0392b"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Cultivar vigoroso con hojas de forma similar a los japonicum pero colores de palmatum rojo. Follaje rojo-púrpura profundo que mantiene bien el color durante el verano. Excelente árbol de jardín por su vigor y coloración."
+      }
+    },
+    {
+      "nombre": "A. Palmatum",
+      "clave": "acerpalmatum",
+      "ficha": {
+        "cientifico": "Acer palmatum",
+        "origen": "Japón · Corea · China",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "6–10",
+        "anchura": "5–8",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos",
+        "tags": [
+          "Especie tipo",
+          "Grupo Palmatum"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde brillante",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#4a7c2f"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · dorado",
+            "colores": [
+              "#c0392b",
+              "#e07a20",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "La especie tipo del arce japonés, cultivada en Japón desde hace siglos. Árbol de hoja caduca que puede alcanzar 6–10 m con copa en cúpula en la madurez. El color otoñal — mezcla de rojos, naranjas y dorados — es su mayor atractivo."
+      }
+    },
+    {
+      "nombre": "A. Platanoides Princeton gold",
+      "clave": "acerplatanoidesprincetongold",
+      "ficha": {
+        "cientifico": "Acer platanoides 'Princeton Gold'",
+        "origen": "Princeton (EE.UU.)",
+        "exposicion": "Sol",
+        "crecimiento": "Lento-moderado",
+        "altura": "10",
+        "anchura": "9",
+        "porte": "erecto",
+        "hoja": "Platanoides, 5 lóbulos grandes",
+        "tags": [
+          "A. Platanoides",
+          "Hoja dorada"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Chartreuse-amarillo",
+            "color": "#d8d040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Amarillo-verde notable",
+            "color": "#c0b020"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Naranja apagado",
+            "color": "#d08020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#6a4a30"
+          }
+        },
+        "descripcion": "Arce de Noruega con follaje dorado-amarillo que se mantiene durante todo el verano sin quemarse. Copa oval de dimensiones considerables. Idóneo como árbol de alineación o ejemplar solitario en jardines amplios."
+      }
+    },
+    {
+      "nombre": "A. Pseu. Brilliantissimum",
+      "clave": "acerpseudoplatanusbrilliantissimum",
+      "ficha": {
+        "cientifico": "Acer pseudoplatanus 'Brilliantissimum'",
+        "origen": "Gran Bretaña",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "3,5–7",
+        "anchura": "4–6",
+        "porte": "globoso",
+        "hoja": "Pseudoplatanus, 3–5 lóbulos grandes",
+        "tags": [
+          "A. Pseudoplatanus",
+          "Brotación rosa-salmón"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Rosa-salmón brillante",
+            "color": "#e8a080"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro moteado crema",
+            "color": "#5a7820"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Amarillo apagado",
+            "color": "#c8a020"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a6040"
+          }
+        },
+        "descripcion": "El pseudoplátano de la brotación rosa. Las hojas emergen en espectacular rosa-salmón brillante que luego vira al amarillo-crema y al verde oscuro moteado. Copa esférica y lento crecimiento ideal para jardines pequeños. Su interés se centra principalmente en la primavera."
+      }
+    },
+    {
+      "nombre": "A. Pseudop. Esk Sunset",
+      "clave": "acerpseudoplatanusesksunset",
+      "ficha": {
+        "cientifico": "Acer pseudoplatanus 'Esk Sunset'",
+        "origen": "Nueva Zelanda",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "3,5–4,5",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Pseudoplatanus variegada, 3–5 lóbulos",
+        "tags": [
+          "A. Pseudoplatanus",
+          "Variegado"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "multi",
+            "desc": "Naranja-rosa · crema · verde (envés púrpura)",
+            "colores": [
+              "#e09070",
+              "#f0e0d0",
+              "#4a7020"
+            ]
+          },
+          "verano": {
+            "tipo": "borde",
+            "desc": "Verde con manchas crema y rosa",
+            "colorBorde": "#d8c8b0",
+            "colorInterior": "#3a6020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Amarillo · naranja brillante",
+            "colores": [
+              "#d8a020",
+              "#e07820"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a6040"
+          }
+        },
+        "descripcion": "Cultivar neozelandés de pseudoplátano con colores únicos. Las hojas emergen naranja-rosa con envés claramente púrpura en primavera, luego verde oscuro moteado con crema y rosa. El otoño aporta amarillos y naranjas brillantes. Crecimiento lento, unos 12–15 pies en 20 años."
+      }
+    },
+    {
+      "nombre": "A. Pseudosieb. Arctic Jade",
+      "clave": "acerpseudosieboldianumarcticjade",
+      "ficha": {
+        "cientifico": "Acer pseudosieboldianum 'Arctic Jade'",
+        "nombre_alt": "Serie Jack Frost",
+        "origen": "Iseli Nursery (EE.UU.) — híbrido",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–4",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Pseudosieboldianum, 9–11 lóbulos dentados",
+        "tags": [
+          "A. Pseudosieboldianum",
+          "Serie Jack Frost",
+          "Hoja verde"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde jade brillante",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro denso",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · amarillo",
+            "colores": [
+              "#c0392b",
+              "#d08020",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "El jade ártico de la serie Jack Frost. A diferencia de sus hermanos North Wind e Ice Dragon, Arctic Jade destaca por su follaje de un verde jade muy puro durante toda la temporada. El color otoñal es espectacular. Resiste -30°C, excelente para zonas frías."
+      }
+    },
+    {
+      "nombre": "A. Pseudosiebold. Ice Dragon",
+      "clave": "acerpseudosieboldianumicedragon",
+      "ficha": {
+        "cientifico": "Acer pseudosieboldianum 'Ice Dragon'",
+        "nombre_alt": "Serie Jack Frost",
+        "origen": "Iseli Nursery (EE.UU.) — híbrido",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3",
+        "anchura": "5",
+        "porte": "extendido",
+        "hoja": "Pseudosieboldianum, 9–11 lóbulos dentados",
+        "tags": [
+          "A. Pseudosieboldianum",
+          "Serie Jack Frost",
+          "Más ancho que alto"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Naranja brillante",
+            "color": "#e07840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · amarillo vivo",
+            "colores": [
+              "#c0392b",
+              "#d08020",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas con porte cascada",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "De la serie Jack Frost, Ice Dragon es más ancho que alto con porte en cascada llamativo. Las hojas emergen naranja brillante en primavera antes de tornarse verde oscuro en verano. Color otoñal excepcionalmente vibrante. Resiste -30°C."
+      }
+    },
+    {
+      "nombre": "A. Pseudosiebold. North Wind",
+      "clave": "acerpseudosieboldianumnorthwind",
+      "ficha": {
+        "cientifico": "Acer pseudosieboldianum 'North Wind'",
+        "nombre_alt": "Serie Jack Frost",
+        "origen": "Iseli Nursery (EE.UU.) — híbrido A. pseudosieboldianum × A. palmatum",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "3–4",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Pseudosieboldianum, 9–11 lóbulos dentados",
+        "tags": [
+          "A. Pseudosieboldianum",
+          "Serie Jack Frost",
+          "Muy resistente al frío"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Naranja-salmón",
+            "color": "#8f1a00"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde oscuro",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja · amarillo",
+            "colores": [
+              "#c0392b",
+              "#d08020",
+              "#c8a020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Parte de la serie Jack Frost de Iseli Nursery, cruce entre pseudosieboldianum y palmatum. Brotación naranja-salmón en primavera y espectacular color otoñal en rojo, naranja y amarillo. Resiste hasta -30°C, muy superior a los palmatum puros."
+      }
+    },
+    {
+      "nombre": "A. Rubrum Fairview Flame",
+      "clave": "acerrubrumfairviewflame",
+      "ficha": {
+        "cientifico": "Acer rubrum 'Fairview Flame'",
+        "origen": "América del Norte (cultivar seleccionado)",
+        "exposicion": "Sol",
+        "crecimiento": "Moderado-rápido",
+        "altura": "14–15",
+        "anchura": "9–10",
+        "porte": "erecto",
+        "hoja": "Rubrum, 3–5 lóbulos",
+        "tags": [
+          "A. Rubrum",
+          "Grande"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde (flores rojas previas)",
+            "color": "#7ab040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde con envés blanquecino",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Rojo a escarlata",
+            "color": "#c0392b"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#6a4a30"
+          }
+        },
+        "descripcion": "Arce rojo norteamericano de gran porte. En primavera da pequeñas flores rojas antes de brotar las hojas. El envés blanquecino es característico de la especie. Árbol vigoroso y adaptable a suelos húmedos. Otoño en rojo-escarlata muy vivo."
+      }
+    },
+    {
+      "nombre": "A. S. Aureum",
+      "clave": "acershirasawanumaureum",
+      "ficha": {
+        "cientifico": "Acer shirasawanum 'Aureum'",
+        "nombre_alt": "Golden Full Moon Maple",
+        "traduccion": "Dorado",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "3,5–4,5",
+        "anchura": "4–5",
+        "porte": "erecto",
+        "hoja": "Redondeada palmeada, 9–11 lóbulos",
+        "tags": [
+          "A. Shirasawanum",
+          "Muy buscado",
+          "Hoja dorada"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde-dorado luminoso",
+            "color": "#d8d040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Dorado-amarillo",
+            "color": "#c0a820"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#d06820",
+              "#c0392b"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas blanco-plateadas",
+            "color": "#9080b0"
+          }
+        },
+        "descripcion": "Uno de los arces más deseados pero menos disponibles. Las hojas en abanico verde-doradas iluminan un rincón sombrío del jardín. Requiere protección del sol de tarde para evitar quemaduras. Crecimiento muy lento. La corteza plateada es característica del shirasawanum."
+      }
+    },
+    {
+      "nombre": "A. S. Autumn moon",
+      "clave": "acershirasawanumautumnmoon",
+      "ficha": {
+        "cientifico": "Acer shirasawanum 'Autumn Moon'",
+        "origen": "Selección de J.D. Vertrees, años 1970",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Lento",
+        "altura": "2,5–4,5",
+        "anchura": "2,5–5,5",
+        "porte": "erecto",
+        "hoja": "Redondeada palmeada, 9–11 lóbulos",
+        "tags": [
+          "A. Shirasawanum",
+          "Varias estaciones",
+          "Hoja naranja"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Chartreuse con quemado naranja",
+            "color": "#e89830"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde-dorado-naranja",
+            "color": "#b09020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo carmesí",
+            "colores": [
+              "#d06820",
+              "#c0392b"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas blanco-plateadas",
+            "color": "#9080b0"
+          }
+        },
+        "descripcion": "Muy apreciado por su singular coloración naranja-quemado que se mantiene todo el verano en sol pleno. Las hojas en abanico tienen 9–11 lóbulos. El otoño combina naranjas y rojos carmesí. La corteza plateada del shirasawanum es atractiva en invierno."
+      }
+    },
+    {
+      "nombre": "A. S. Jordan",
+      "clave": "acershirasawanumjordan",
+      "ficha": {
+        "cientifico": "Acer shirasawanum 'Jordan'",
+        "origen": "Italia (Fratelli Gilardelli Nursery)",
+        "exposicion": "Semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–5",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Redondeada palmeada, 9–11 lóbulos",
+        "tags": [
+          "A. Shirasawanum",
+          "Tolera el sol"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde-dorado brillante",
+            "color": "#d8c840"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Dorado-verdoso",
+            "color": "#a8b030"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Rojo · naranja-dorado",
+            "colores": [
+              "#c04020",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas blanco-plateadas",
+            "color": "#9080b0"
+          }
+        },
+        "descripcion": "Shirasawanum seleccionado en Italia que tolera el sol pleno sin quemarse. Hojas doradas que mantienen el color en verano. Otoño espectacular en rojos y naranjas. Corteza blanco-plateada muy ornamental en invierno, característica del género shirasawanum."
+      }
+    },
+    {
+      "nombre": "A. S. Moonrise",
+      "clave": "acershirasawanummoonrise",
+      "ficha": {
+        "cientifico": "Acer shirasawanum 'Moonrise'",
+        "origen": "EE.UU. (Carl Munn, patente PP#16718)",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "4–5,5",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Redondeada palmeada, 9–11 lóbulos",
+        "tags": [
+          "A. Shirasawanum",
+          "Tolera el sol",
+          "Primavera llamativa"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "multi",
+            "desc": "Naranja-rojo · melocotón · lima",
+            "colores": [
+              "#e07840",
+              "#f0c060",
+              "#c8d840"
+            ]
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Dorado-verde",
+            "color": "#c0a820"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Naranja",
+            "color": "#d06820"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas blanco-plateadas",
+            "color": "#9080b0"
+          }
+        },
+        "descripcion": "Pariente cercano del 'Autumn Moon', más resistente al sol y al frío. Las hojas emergen en primavera en una mezcla deslumbrante de naranja-rojo, melocotón y lima antes de asentarse en dorado-verde. Tolera -26°C. Muy buscado por coleccionistas."
+      }
+    },
+    {
+      "nombre": "A. S. Sensu",
+      "clave": "acershirasawanumsensu",
+      "ficha": {
+        "cientifico": "Acer shirasawanum 'Sensu'",
+        "origen": "Japón",
+        "exposicion": "Semisombra",
+        "crecimiento": "Lento",
+        "altura": "3–4",
+        "anchura": "3–4",
+        "porte": "erecto",
+        "hoja": "Redondeada palmeada, 9–11 lóbulos",
+        "tags": [
+          "A. Shirasawanum",
+          "Hoja abanico"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Verde-amarillo",
+            "color": "#c8d040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Dorado-verde",
+            "color": "#a0b020"
+          },
+          "otono": {
+            "tipo": "multi",
+            "desc": "Naranja · rojo",
+            "colores": [
+              "#c04020",
+              "#d08020"
+            ]
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas blanco-plateadas",
+            "color": "#9080b0"
+          }
+        },
+        "descripcion": "Shirasawanum con las características hojas en abanico de la especie, profundamente lobuladas y con una elegancia particular. El follaje amarillo-dorado del verano contrasta bien con los arces verdes del jardín. Corteza blanco-plateada ornamental en invierno."
+      }
+    },
+    {
+      "nombre": "A. x Orientalia Minorient",
+      "clave": "acerorientaliaminorient",
+      "ficha": {
+        "cientifico": "Acer × orientalia 'Minorient'",
+        "nombre_alt": "Orientalia",
+        "origen": "Francia (Minier Nursery, 2010) — híbrido",
+        "exposicion": "Sol / semisombra",
+        "crecimiento": "Moderado",
+        "altura": "5–6",
+        "anchura": "2–2,5",
+        "porte": "erecto",
+        "hoja": "Palmeada, 5–7 lóbulos profundos",
+        "tags": [
+          "Híbrido moderno",
+          "Primavera llamativa",
+          "A. Orientalia"
+        ],
+        "colores": {
+          "primavera": {
+            "tipo": "solido",
+            "desc": "Naranja-amarillo con tonos rosas",
+            "color": "#e09040"
+          },
+          "verano": {
+            "tipo": "solido",
+            "desc": "Verde medio",
+            "color": "#4a7820"
+          },
+          "otono": {
+            "tipo": "solido",
+            "desc": "Burdeos-rojo",
+            "color": "#8b1a3a"
+          },
+          "invierno": {
+            "tipo": "ramas",
+            "desc": "Ramas pardas",
+            "color": "#7a5530"
+          }
+        },
+        "descripcion": "Híbrido moderno creado en Francia en 2010. Las hojas nuevas en primavera son naranja-amarillas con toques rosados muy llamativos antes de tornarse verde. El otoño produce colores burdeos-rojizos. Forma un árbol de porte erecto con buen crecimiento."
+      }
+    }
+  ]
+}
