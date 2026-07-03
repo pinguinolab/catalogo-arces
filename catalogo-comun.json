@@ -187,10 +187,10 @@
       }
     },
     {
-      "nombre": "A. J. Vitifolium2",
-      "clave": "acerjaponicumvitifolium2",
+      "nombre": "A. J. Vitifolium",
+      "clave": "acerjaponicumvitifolium",
       "ficha": {
-        "cientifico": "Acer japonicum 'Vitifolium2'",
+        "cientifico": "Acer japonicum 'Vitifolium'",
         "traduccion": "Hoja de vid",
         "origen": "Japón",
         "exposicion": "Sol / semisombra",
