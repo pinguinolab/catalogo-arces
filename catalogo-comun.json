@@ -8,11 +8,10 @@
   },
   "arces": [
     {
-      "nombre": "A. C. Carnivalillo",
-      "clave": "acercampestrecarnivalillo",
+      "nombre": "A. C. Carnival",
+      "clave": "acercampestrecarnival",
       "ficha": {
-        "cientifico": "Acer campestrillo 'Carnival'",
-       "nombre_alt": "campestrillo",
+        "cientifico": "Acer campestre 'Carnival'",
         "origen": "Países Bajos (azar de semillero, 1989)",
         "exposicion": "Sombra / semisombra",
         "crecimiento": "Lento",
