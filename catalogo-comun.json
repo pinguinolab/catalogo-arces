@@ -8,7 +8,7 @@
   },
   "arces": [
     {
-      "nombre": "A. C. Carnival",
+      "nombre": "Carnival",
       "clave": "acercampestrecarnival",
       "ficha": {
         "cientifico": "Acer campestre 'Carnival'",
@@ -53,7 +53,7 @@
       }
     },
     {
-      "nombre": "A. Campestre",
+      "nombre": "Campestre",
       "clave": "acercampestre",
       "ficha": {
         "cientifico": "Acer campestre",
@@ -95,7 +95,7 @@
       }
     },
     {
-      "nombre": "A. J. Aconitifolium",
+      "nombre": "Aconitifolium",
       "clave": "acerjaponicumaconitifolium",
       "ficha": {
         "cientifico": "Acer japonicum 'Aconitifolium'",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "nombre": "A. J. Indian Summer",
+      "nombre": "Indian Summer",
       "clave": "acerjaponicumindiansummer",
       "ficha": {
         "cientifico": "Acer japonicum 'Indian Summer'",
@@ -187,7 +187,7 @@
       }
     },
     {
-      "nombre": "A. J. Vitifolium",
+      "nombre": "Vitifolium",
       "clave": "acerjaponicumvitifolium",
       "ficha": {
         "cientifico": "Acer japonicum 'Vitifolium'",
@@ -234,7 +234,7 @@
       }
     },
     {
-      "nombre": "A. P. Aka shigitatsu sawa",
+      "nombre": "Aka shigitatsu sawa",
       "clave": "acerpalmatumakashigitatsusawa",
       "ficha": {
         "cientifico": "Acer palmatum 'Aka shigitatsu sawa'",
@@ -284,7 +284,7 @@
       }
     },
     {
-      "nombre": "A. P. Akane",
+      "nombre": "Akane",
       "clave": "acerpalmatumakane",
       "ficha": {
         "cientifico": "Acer palmatum 'Akane'",
@@ -326,7 +326,7 @@
       }
     },
     {
-      "nombre": "A. P. Amagi sigure",
+      "nombre": "Amagi sigure",
       "clave": "acerpalmatumamagishigure",
       "ficha": {
         "cientifico": "Acer palmatum 'Amagi shigure'",
@@ -374,7 +374,7 @@
       }
     },
     {
-      "nombre": "A. P. Amber ghost",
+      "nombre": "Amber ghost",
       "clave": "acerpalmatumamberghost",
       "ficha": {
         "cientifico": "Acer palmatum 'Amber Ghost'",
@@ -422,7 +422,7 @@
       }
     },
     {
-      "nombre": "A. P. Anne Irene",
+      "nombre": "Anne Irene",
       "clave": "acerpalmatumanneirene",
       "ficha": {
         "cientifico": "Acer palmatum 'Anne Irene'",
@@ -474,7 +474,7 @@
       }
     },
     {
-      "nombre": "A. P. Ao Meshime No Uchi",
+      "nombre": "Ao Meshime No Uchi",
       "clave": "acerpalmatumaomeshimenouchi",
       "ficha": {
         "cientifico": "Acer palmatum 'Ao Meshime No Uchi'",
@@ -518,7 +518,7 @@
       }
     },
     {
-      "nombre": "A. P. Ariadne",
+      "nombre": "Ariadne",
       "clave": "acerpalmatumariadne",
       "ficha": {
         "cientifico": "Acer palmatum 'Ariadne'",
@@ -562,7 +562,7 @@
       }
     },
     {
-      "nombre": "A. P. Atrolineare",
+      "nombre": "Atrolineare",
       "clave": "acerpalmatumatrolineare",
       "ficha": {
         "cientifico": "Acer palmatum 'Atrolineare'",
@@ -606,7 +606,7 @@
       }
     },
     {
-      "nombre": "A. P. Atropurpureum",
+      "nombre": "Atropurpureum",
       "clave": "acerpalmatumatropurpureum",
       "ficha": {
         "cientifico": "Acer palmatum 'Atropurpureum'",
@@ -648,7 +648,7 @@
       }
     },
     {
-      "nombre": "A. P. Beni Chidori",
+      "nombre": "Beni Chidori",
       "clave": "acerpalmatumbenichidori",
       "ficha": {
         "cientifico": "Acer palmatum 'Beni Chidori'",
@@ -690,7 +690,7 @@
       }
     },
     {
-      "nombre": "A. P. Beni kawa",
+      "nombre": "Beni kawa",
       "clave": "acerpalmatumbenikawa",
       "ficha": {
         "cientifico": "Acer palmatum 'Beni kawa'",
@@ -733,7 +733,7 @@
       }
     },
     {
-      "nombre": "A. P. Beni Maiko",
+      "nombre": "Beni Maiko",
       "clave": "acerpalmatumbenimaiko",
       "ficha": {
         "cientifico": "Acer palmatum 'Beni Maiko'",
@@ -782,7 +782,7 @@
       }
     },
     {
-      "nombre": "A. P. Beni Otake",
+      "nombre": "Beni Otake",
       "clave": "acerpalmatumbeniotake",
       "ficha": {
         "cientifico": "Acer palmatum 'Beni Otake'",
@@ -825,7 +825,7 @@
       }
     },
     {
-      "nombre": "A. P. Beni Sazanami",
+      "nombre": "Beni Sazanami",
       "clave": "acerpalmatumbenisazanami",
       "ficha": {
         "cientifico": "Acer palmatum 'Beni Sazanami'",
@@ -870,7 +870,7 @@
       }
     },
     {
-      "nombre": "A. P. Beni Schichienge",
+      "nombre": "Beni Schichienge",
       "clave": "acerpalmatumbenishichienge",
       "ficha": {
         "cientifico": "Acer palmatum 'Beni Shichienge'",
@@ -921,7 +921,7 @@
       }
     },
     {
-      "nombre": "A. P. Bi-hoo",
+      "nombre": "Bi-hoo",
       "clave": "acerpalmatumbihoo",
       "ficha": {
         "cientifico": "Acer palmatum 'Bi hoo'",
@@ -965,7 +965,7 @@
       }
     },
     {
-      "nombre": "A. P. Bloodgood",
+      "nombre": "Bloodgood",
       "clave": "acerpalmatumbloodgood",
       "ficha": {
         "cientifico": "Acer palmatum 'Bloodgood'",
@@ -1008,7 +1008,7 @@
       }
     },
     {
-      "nombre": "A. P. Butterfly",
+      "nombre": "Butterfly",
       "clave": "acerpalmatumbutterfly",
       "ficha": {
         "cientifico": "Acer palmatum 'Butterfly'",
@@ -1056,7 +1056,7 @@
       }
     },
     {
-      "nombre": "A. P. Carlis Corner",
+      "nombre": "Carlis Corner",
       "clave": "acerpalmatumcarliscorner",
       "ficha": {
         "cientifico": "Acer palmatum 'Carlis Corner'",
@@ -1098,7 +1098,7 @@
       }
     },
     {
-      "nombre": "A. P. Cascade Citrine",
+      "nombre": "Cascade Citrine",
       "clave": "acerpalmatumcascadecitrine",
       "ficha": {
         "cientifico": "Acer palmatum 'Cascade Citrine'",
@@ -1144,7 +1144,7 @@
       }
     },
     {
-      "nombre": "A. P. Cascade Ruby",
+      "nombre": "Cascade Ruby",
       "clave": "acerpalmatumcascaderuby",
       "ficha": {
         "cientifico": "Acer palmatum 'Cascade Ruby'",
@@ -1182,7 +1182,7 @@
       }
     },
     {
-      "nombre": "A. P. Celebration",
+      "nombre": "Celebration",
       "clave": "acerpalmatumcelebration",
       "ficha": {
         "cientifico": "Acer palmatum 'Celebration'",
@@ -1223,7 +1223,7 @@
       }
     },
     {
-      "nombre": "A. P. Corallinum",
+      "nombre": "Corallinum",
       "clave": "acerpalmatumcorallinum",
       "ficha": {
         "cientifico": "Acer palmatum 'Corallinum'",
@@ -1272,7 +1272,7 @@
       }
     },
     {
-      "nombre": "A. P. Deshojo",
+      "nombre": "Deshojo",
       "clave": "acerpalmatumdeshojo",
       "ficha": {
         "cientifico": "Acer palmatum 'Deshojo'",
