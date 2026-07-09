@@ -53,6 +53,55 @@
       }
     },
     {
+  "nombre": "Acer Pictum Usugumo",
+  "clave": "acerpictumusugumo",
+  "ficha": {
+    "cientifico": "Acer Pictum Usugumo",
+    "nombre_alt": "Batwing maple, arce hojas de murcielago",
+    "traduccion": "Arce pintado",
+    "origen": "China, Siberia y Japón",
+    "altura": "5",
+    "anchura": "2",
+    "porte": "globoso",
+    "exposicion": "Semisombra",
+    "hoja": "Palmeada fullmoon 7 lóbulos",
+    "crecimiento": "Lento",
+    "tags": [],
+    "colores": {
+      "primavera": {
+        "tipo": "multi",
+        "desc": "Crema variegado",
+        "colores": [
+          "#ebcd86",
+          "#cc5520",
+          "#5a9830",
+          "#ffffff"
+        ]
+      },
+      "verano": {
+        "tipo": "manchas_blancas",
+        "desc": "Verde variegado",
+        "colorFondo": "#e8e0c8",
+        "manchas": "#90c060",
+        "borde": "#e8a0b0"
+      },
+      "otono": {
+        "tipo": "solido",
+        "desc": "",
+        "color": "#888888"
+      },
+      "invierno": {
+        "tipo": "solido",
+        "desc": "",
+        "color": "#888888"
+      }
+    },
+    "descripcion": "El Acer pictum 'Usugumo', también conocido como arce pintado o arce de hoja de murciélago, es un cultivar raro originario de Asia oriental (desde China y Siberia hasta Japón). Esta variedad es especialmente apreciada por sus hojas en forma de alas de murciélago y su llamativa variegación coral y crema",
+    "color_rep": "#7ab040"
+  },
+  "propuesto_por": "Jardín Rubén Calo"
+},
+    {
       "nombre": "Campestre",
       "clave": "acercampestre",
       "ficha": {
