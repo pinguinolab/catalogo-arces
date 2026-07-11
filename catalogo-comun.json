@@ -1056,54 +1056,56 @@
         "descripcion": "El arce japonés rojo más cultivado en el mundo occidental. Las hojas rojo-púrpura mantienen el color incluso en verano caluroso. Base para numerosos cultivares modernos como 'Skeeter's Broom' y 'Twombly's Red Sentinel'. El escarlata otoñal es muy llamativo."
       }
     },
-    {
-      "nombre": "Butterfly",
-      "clave": "acerpalmatumbutterfly",
-      "ficha": {
-        "cientifico": "Acer palmatum 'Butterfly'",
-        "origen": "Japón · RHS AGM",
-        "exposicion": "Semisombra",
-        "crecimiento": "Lento",
-        "altura": "2–3",
-        "anchura": "1,5–2",
-        "porte": "erecto",
-        "hoja": "Variegada, 5–7 lóbulos estrechos",
-        "tags": [
-          "Variegado",
-          "RHS AGM",
-          "Hoja rosa",
-          "Grupo Marginatum"
-        ],
-        "colores": {
-          "primavera": {
-            "tipo": "borde",
-            "desc": "Borde rosa · interior verde-crema",
-            "colorBorde": "#e8a0b0",
-            "colorInterior": "#f8ffeb"
-          },
-          "verano": {
-            "tipo": "borde",
-            "desc": "Borde crema · interior verde grisáceo",
-            "colorBorde": "#ffffff",
-            "colorInterior": "#4a8030"
-          },
-          "otono": {
-            "tipo": "multi",
-            "desc": "Escarlata · rosa intenso",
-            "colores": [
-              "#c0392b",
-              "#e890b0"
-            ]
-          },
-          "invierno": {
-            "tipo": "ramas",
-            "desc": "Ramas pardas",
-            "color": "#7a5530"
-          }
-        },
-        "descripcion": "Las hojas con lóbulos estrechos presentan bordes irregulares en crema-blanco a menudo teñidos de rosa que evocan alas de mariposa. En otoño el contraste se intensifica con escarlata en las zonas verdes y rosa profundo en los bordes. Premio AGM de la RHS."
+{
+  "nombre": "A. P. Butterfly",
+  "clave": "acerpalmatumbutterfly",
+  "ficha": {
+    "cientifico": "Acer palmatum 'Butterfly'",
+    "origen": "Japón · RHS AGM",
+    "exposicion": "Semisombra",
+    "crecimiento": "Lento",
+    "altura": "2–3",
+    "anchura": "1,5–2",
+    "porte": "erecto",
+    "hoja": "Variegada, 5–7 lóbulos estrechos",
+    "tags": [
+      "Variegado",
+      "RHS AGM",
+      "Hoja rosa",
+      "Grupo Marginatum"
+    ],
+    "colores": {
+      "primavera": {
+        "tipo": "borde",
+        "desc": "Borde rosa · interior verde-crema",
+        "colorBorde": "#e8a0b0",
+        "colorInterior": "#f8ffeb"
+      },
+      "verano": {
+        "tipo": "borde",
+        "desc": "Borde crema · interior verde grisáceo",
+        "colorBorde": "#ffffff",
+        "colorInterior": "#4a8030"
+      },
+      "otono": {
+        "tipo": "multi",
+        "desc": "Escarlata · rosa intenso",
+        "colores": [
+          "#c0392b",
+          "#e890b0"
+        ]
+      },
+      "invierno": {
+        "tipo": "ramas",
+        "desc": "Ramas pardas",
+        "color": "#7a5530"
       }
     },
+    "descripcion": "Las hojas con lóbulos estrechos presentan bordes irregulares en crema-blanco a menudo teñidos de rosa que evocan alas de mariposa. En otoño el contraste se intensifica con escarlata en las zonas verdes y rosa profundo en los bordes. Premio AGM de la RHS.",
+    "color_rep": "#e0cad6"
+  },
+  "propuesto_por": "Maple test"
+}, 
     {
       "nombre": "Carlis Corner",
       "clave": "acerpalmatumcarliscorner",
