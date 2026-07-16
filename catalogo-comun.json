@@ -635,7 +635,7 @@
     },
     "colores": {
       "primavera": {
-        "tipo": "Reticulado",
+        "tipo": "reticulado",
         "desc": {
           "es": "Rosa púrpura con venas verdes",
           "en": "Purple-pink with green veins"
@@ -646,7 +646,7 @@
         ]
       },
       "verano": {
-        "tipo": "Reticulado",
+        "tipo": "reticulado",
         "desc": {
           "es": "Verde rosado con venas verdes",
           "en": "Pink-green with green veins"
@@ -657,7 +657,7 @@
         ]
       },
       "otono": {
-        "tipo": "Múlti",
+        "tipo": "multi",
         "desc": {
           "es": "Naranja · rojo escarlata",
           "en": "Orange · scarlet red"
@@ -668,7 +668,7 @@
         ]
       },
       "invierno": {
-        "tipo": "Ramas",
+        "tipo": "ramas",
         "desc": {
           "es": "Ramas marrón grisáceas",
           "en": "Grey-brown branches"
