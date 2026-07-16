@@ -602,6 +602,87 @@
       }
     },
     {
+  "nombre": "Amagi Shigure Chatgpt",
+  "clave": "acerpalmatumamagishigurechatgpt",
+  "ficha": {
+    "cientifico": "Acer palmatum 'Amagi Shigure ChatGPT'",
+    "origen": {
+      "es": "Japón",
+      "en": "Japan"
+    },
+    "traduccion": {
+      "es": "Lluvia sobre el monte Amagi",
+      "en": "Rain over Mount Amagi"
+    },
+    "exposicion": "Semisombra",
+    "crecimiento": "Lento-moderado",
+    "altura": "2–3",
+    "anchura": "2–3",
+    "porte": "Erecto",
+    "hoja": {
+      "es": "Palmeada, 7 lóbulos, reticulada",
+      "en": "Palmate, 7 lobes, reticulated"
+    },
+    "tags": {
+      "es": [
+        "Reticulado",
+        "Grupo Matsumurae"
+      ],
+      "en": [
+        "Reticulated",
+        "Matsumurae Group"
+      ]
+    },
+    "colores": {
+      "primavera": {
+        "tipo": "Reticulado",
+        "desc": {
+          "es": "Rosa púrpura con venas verdes",
+          "en": "Purple-pink with green veins"
+        },
+        "colores": [
+          "#b25b86",
+          "#6d9a45"
+        ]
+      },
+      "verano": {
+        "tipo": "Reticulado",
+        "desc": {
+          "es": "Verde rosado con venas verdes",
+          "en": "Pink-green with green veins"
+        },
+        "colores": [
+          "#8fa85d",
+          "#567b35"
+        ]
+      },
+      "otono": {
+        "tipo": "Múlti",
+        "desc": {
+          "es": "Naranja · rojo escarlata",
+          "en": "Orange · scarlet red"
+        },
+        "colores": [
+          "#d97a28",
+          "#c42d2d"
+        ]
+      },
+      "invierno": {
+        "tipo": "Ramas",
+        "desc": {
+          "es": "Ramas marrón grisáceas",
+          "en": "Grey-brown branches"
+        },
+        "color": "#7a624d"
+      }
+    },
+    "descripcion": {
+      "es": "Cultivar reticulado muy apreciado por el intenso contraste entre el limbo rosado o púrpura y las venas verdes, especialmente durante la brotación primaveral. Las hojas, profundamente divididas, mantienen parte del reticulado durante el verano antes de adquirir brillantes tonos anaranjados y rojos en otoño. Requiere protección del sol intenso para conservar la intensidad de sus colores.",
+      "en": "A highly regarded reticulated cultivar, prized for the striking contrast between its pink to purple leaf blade and green veins, especially during spring flush. The deeply divided leaves retain much of their reticulation through summer before turning brilliant orange and scarlet red in autumn. Best grown with protection from intense afternoon sun to preserve its vivid colouring."
+    }
+  }
+},
+    {
       "nombre": "Amagi Shigure",
       "clave": "acerpalmatumamagishigure",
       "ficha": {
