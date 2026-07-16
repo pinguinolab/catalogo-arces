@@ -8130,6 +8130,84 @@
       }
     },
     {
+  "nombre": "Mila",
+  "clave": "acerpalmatummila",
+  "ficha": {
+    "cientifico": "Acer palmatum 'Mila'",
+    "origen": {
+      "es": "Países Bajos",
+      "en": "Netherlands"
+    },
+    "exposicion": "Sol / semisombra",
+    "crecimiento": "Moderado",
+    "altura": "2,5–3",
+    "anchura": "2–2,5",
+    "porte": "Erecto",
+    "hoja": {
+      "es": "Palmeada, 5 lóbulos",
+      "en": "Palmate, 5 lobes"
+    },
+    "tags": {
+      "es": [
+        "Color cambiante",
+        "Grupo Palmatum"
+      ],
+      "en": [
+        "Changing colour",
+        "Palmatum Group"
+      ]
+    },
+    "colores": {
+      "primavera": {
+        "tipo": "multi",
+        "desc": {
+          "es": "Rosa pastel · rojo · naranja",
+          "en": "Pastel pink · red · orange"
+        },
+        "colores": [
+          "#e68fa0",
+          "#c94045",
+          "#e58b45"
+        ]
+      },
+      "verano": {
+        "tipo": "multi",
+        "desc": {
+          "es": "Rojo brillante · granate",
+          "en": "Bright red · maroon"
+        },
+        "colores": [
+          "#c83f45",
+          "#6f2735"
+        ]
+      },
+      "otono": {
+        "tipo": "multi",
+        "desc": {
+          "es": "Naranja · rojo",
+          "en": "Orange · red"
+        },
+        "colores": [
+          "#dc812d",
+          "#bd3b32"
+        ]
+      },
+      "invierno": {
+        "tipo": "ramas",
+        "desc": {
+          "es": "Ramas marrón rojizas",
+          "en": "Reddish brown branches"
+        },
+        "color": "#80503a"
+      }
+    },
+    "descripcion": {
+      "es": "Cultivar moderno de gran atractivo por su cambio continuo de coloración durante la temporada. Brota en tonos rosa pastel, rojo y naranja, evoluciona hacia rojos intensos y granates en verano y finaliza con una llamativa combinación otoñal de naranjas y rojos. Presenta un porte erguido y denso, adecuado tanto para jardín como para cultivo en contenedor.",
+      "en": "A modern cultivar valued for its constantly changing seasonal colours. It emerges in pastel pink, red and orange tones, develops intense reds and maroons during summer, and finishes with a striking autumn display of orange and red shades. It has an upright, dense habit, suitable for both gardens and container growing."
+    }
+  }
+},
+    {
       "nombre": "Minorient",
       "clave": "acerorientaliaminorient",
       "ficha": {
