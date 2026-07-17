@@ -1,10 +1,10 @@
 # catalogo-arces
 Catálogo común de cultivares de arce
 Repositorio colaborativo de fichas de cultivares de arce de
-The Maple Society of Europe — Spanish branch.
+Arcedia.
 
 Aquí se mantiene un catálogo compartido de cultivares (nombre, datos botánicos,
-origen, morfología, colores, descripción). Cada miembro de la sociedad puede,
+origen, morfología, colores, descripción). Cada usuario de Arcedia puede,
 desde su propio kit de catálogo:
 Importar cultivares ya documentados aquí a su jardín, sin tener que
 rellenar la ficha a mano.
@@ -21,13 +21,13 @@ descargar nada manualmente: cada miembro lo consulta desde su panel.
 
 ¿Cómo aporto un cultivar nuevo?
 No tienes que editar este repositorio a mano. Desde el panel de administración
-de tu kit, en la ficha de un arce, pulsa «Proponer al catálogo común».
+de tu kit, en la ficha de un arce, pulsa «Proponer al catálogo de Arcedia».
 Podrás enviarlo por GitHub (con una propuesta prerrellenada) o por correo al
-coordinador. La propuesta incluye automáticamente el nombre de tu jardín como
+equipo de Arcedia. La propuesta incluye automáticamente el nombre de tu jardín como
 crédito.
 
 Licencia y uso
-Catálogo de uso interno de la sociedad. Las fichas recogen información botánica
+Catálogo de uso interno de Arcedia. Las fichas recogen información botánica
 aportada por los miembros para consulta y catalogación de sus colecciones.
-Mantenido por The Maple Society of Europe — Spanish branch.
+Mantenido por Arcedia.
 
